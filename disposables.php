@@ -99,7 +99,7 @@
                         </li>
                         <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
                         <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
-                        <li><a href='#'><span>תמיסות</span></a></li>
+                        <li><a href='solutions.php'><span>תמיסות</span></a></li>
                         <li><a href='#'><span>עבודות בית מלאכה</span></a></li>
                         <li><a href='#'><span>ניקיון כלים</span></a></li>
                         <li><a href='#'><span>מעבדת כיולים</span></a></li>
@@ -222,19 +222,18 @@
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
-                                        <img src="images/disposables/eppendorf.jpg" alt="מיקרו-מבחנות" class="prod" style="height:150px; width: 120px;">
-                                        <div class="caption" style="height: auto; width: 210px;">
-                                            <h3>מיקרו-מבחנות</h3>
-                                            <p>מיקרו-מבחנות PP ("מבחנות אפנדורף") תוצרת BRAND גרמניה.</p>
-                                            <p>מתאימות לאוטוקלאב.</p>
-                                            <p><a href="http://www.brand.de/en/products/life-science-products/micro-tubes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=412&chapter=412&xtree=1&begin=0&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                        <img src="images/disposables/parafilm.jpg" alt="פרפילם" class="prod" style="height:200px; width: 230px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>פרפילם</h3>
+                                            <p>סרט איטום PARAFILM® M</p>
+                                            <p>PM-996</p>
+                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=80&chapter=80&ID_O_PRODUCT=485&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
                                             <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
                                 </div>
-                            </td>
+                                </td>
                         </tr>
                         <tr>
                             <td>
@@ -337,6 +336,58 @@
                                             <p>צורת מעוין לבן או שחור.</p>
                                             <p>מידות: 31x55 מ"מ.</p>
                                             <p><a href="http://www.kartelllabware.com/en/content/balance-boats" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/disposables/eppendorf.jpg" alt="מיקרו-מבחנות" class="prod" style="height:150px; width: 120px;">
+                                        <div class="caption" style="height: auto; width: 210px;">
+                                            <h3>מיקרו-מבחנות</h3>
+                                            <p>מיקרו-מבחנות PP ("מבחנות אפנדורף") תוצרת BRAND גרמניה.</p>
+                                            <p>מתאימות לאוטוקלאב.</p>
+                                            <p><a href="http://www.brand.de/en/products/life-science-products/micro-tubes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=412&chapter=412&xtree=1&begin=0&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/disposables/PS tubes.jpg" alt="מבחנות" class="prod" style="height:200px; width: 170px;">
+                                        <div class="caption" style="height: auto; width: 200px;">
+                                            <h3>מבחנות</h3>
+                                            <p>מבחנות PP ו-PS תוצרת KARTELL איטליה</p>
+                                            <p><a href="http://www.kartelllabware.com/en/content/disposable-tubes" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/disposables/finned plugs.jpg" alt="פקק כנפיים" class="prod" style="height:160px; width: 170px;">
+                                        <div class="caption" style="height: auto; width: 200px;">
+                                            <h3>פקק כנפיים למבחנות</h3>
+                                            <p>פקק כנפיים PE תוצרת KARTELL איטליה</p>
+                                            <p>קוטר 11-13 מ"מ וקוטר 16 מ"מ</p>
+                                            <p><a href="http://www.kartelllabware.com/en/content/finned-plugs-disposable-tubes" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
                                             <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>

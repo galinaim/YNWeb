@@ -102,7 +102,7 @@
                         </li>
                         <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
                         <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
-                        <li><a href='#'><span>תמיסות</span></a></li>
+                        <li><a href='solutions.php'><span>תמיסות</span></a></li>
                         <li><a href='#'><span>עבודות בית מלאכה</span></a></li>
                         <li><a href='#'><span>ניקיון כלים</span></a></li>
                         <li><a href='#'><span>מעבדת כיולים</span></a></li>
