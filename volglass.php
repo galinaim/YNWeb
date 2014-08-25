@@ -99,15 +99,16 @@
                         <li class='active has-sub'><a href='#'><span>כלי מדידה</span></a>
                             <ul>
                                 <li class='has-sub'><a href='volglass.php'><span>זכוכית</span></a></li>
-                                <li class='has-sub'><a href='#'><span>פלסטיק</span></a></li>
+                                <li class='has-sub'><a href='volplastic.php'><span>פלסטיק</span></a></li>
                             </ul>
                         </li>
-                        <li><a href='#'><span>מוצרים מתכלים</span></a></li>
-                        <li><a href='#'><span>מכשור לעבודה עם נוזלים</span></a></li>
+                        <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
+                        <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
                         <li><a href='#'><span>תמיסות</span></a></li>
                         <li><a href='#'><span>עבודות בית מלאכה</span></a></li>
                         <li><a href='#'><span>ניקיון כלים</span></a></li>
                         <li><a href='#'><span>מעבדת כיולים</span></a></li>
+                        <li><a href='#'><span>כלי זכוכית</span></a></li>
                         <li><a href='#'><span>ניירות סינון</span></a></li>
                         <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>
                         <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
@@ -122,10 +123,10 @@
                 
                 <!--content-->
                 <div class="content">
-                <div class="container marketing" align="middle" style="width: auto; height: auto;">
-                <div class="row" align="middle">
-                        <div style="width: 1000px; height:640px;">
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                    <table>
+                        <tr>
+                            <td>
+                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/glass volumetric/flask.jpg" alt="בקבוק מדידה" class="prod" style="height:200px; width: 120px;">
@@ -141,9 +142,11 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-             
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                </div>                              
+                            </td>
+                            
+                            <td>
+                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/glass volumetric/flaskamber.jpg" alt="בקבוק מדידה חום" class="prod" style="height:200px; width: 120px;">
@@ -158,9 +161,11 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-             
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                </div>                               
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/glass volumetric/bulbpipette.jpg" alt="פיפטה מילוי" class="prod" style="height:200px; width: 100px;">
@@ -175,12 +180,12 @@
                                             </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        
-                    <br>
-                        <div style="width: auto; height: auto;">             
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/glass volumetric/gradpipette.jpg" alt="פיפטה מדידה" class="prod" style="height:200px; width: 100px;">
@@ -196,8 +201,10 @@
                                     </div>
                                 </div>
                             </div>
-     
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                            </td>
+                            
+                            <td>
+                             <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                     <img src="images/glass volumetric/cylinder.jpg" alt="משורה" class="prod" style="height:200px; width: 100px;">
@@ -212,9 +219,11 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-             
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                            </div>   
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/glass volumetric/burette.jpg" alt="בירטה" class="prod" style="height:200px; width: 100px;">
@@ -230,10 +239,29 @@
                                     </div>
                                 </div>
                             </div>
-             
-                        </div>
-                    </div>
-                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/glass volumetric/micropipettes.jpg" alt="קפילרות" class="prod" style="height:200px; width: 190px;">
+                                        <div class="caption" style="height: auto; width: 235px;">
+                                            <h3>קפילרות</h3>
+                                            <p>מיקרו-פיפטות זכוכית תוצרת BRAND גרמניה.</p>
+                                            <p>מכוילות בהתאם לתקן ISO 7550 ומסומנות בצבע לפי תקן ה-ISO.</p>
+                                            <p>נפחים של עד 200 מיקרו-ליטר.</p>
+                                            <p><a href="http://www.brand.de/en/products/clinical-laboratory/disposable-micropipettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=283&chapter=283&ID_O_PRODUCT=578&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </td>
+                        </tr>
+                        
+                    </table>
                 </div>
         </div>
          

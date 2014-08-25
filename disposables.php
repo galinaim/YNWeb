@@ -83,9 +83,7 @@
                         <p>המוצרים המתכלים המשווקים ע"י יואל נעים בע"מ או נעים בל-ארט הם ברמה הגבוהה ביותר והינם תוצרת גרמניה, ארה"ב או איטליה. המוצרים המתכלים מלווים בכלל התעודות הנדרשות.</p>
                         <p>קטגורית המוצרים המתכלים הינה קטגוריה רחבה ביותר, ולהלן יובאו רק חלק מן הפריטים המקוטלגים תחתה.</p>
                         <p>לכל שאלה בנוגע למוצרים מתכלים, בין אם הם מופיעים בדף זה ובין אם לא, ניתן ליצור עימנו קשר.</p>
-                        <p><a class="btn btn-primary btn-lg" role="button" href="http://www.brand.de/en/products/life-science-products/" target="_blank">לפרטים נוספים</a>
-                            <a class="btn btn-primary btn-lg" role="button" href="http://catalog.brand.de/index.php?chapter=461&xtree=1&begin=0&ID_O_TREE_GROUP=461&sLanguage=English&start_infoblock=1" target="_blank">לקטלוג האינטרנטי</a>
-                        <a class="btn btn-primary btn-lg" role="button" href="#">לקבלת הצעת מחיר</a></p>
+                        <p><a class="btn btn-primary btn-lg" role="button" href="#">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
@@ -100,11 +98,12 @@
                             </ul>
                         </li>
                         <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
-                        <li><a href='#'><span>מכשור לעבודה עם נוזלים</span></a></li>
+                        <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
                         <li><a href='#'><span>תמיסות</span></a></li>
                         <li><a href='#'><span>עבודות בית מלאכה</span></a></li>
                         <li><a href='#'><span>ניקיון כלים</span></a></li>
                         <li><a href='#'><span>מעבדת כיולים</span></a></li>
+                        <li><a href='#'><span>כלי זכוכית</span></a></li>
                         <li><a href='#'><span>ניירות סינון</span></a></li>
                         <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>
                         <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
@@ -119,10 +118,10 @@
                 
                 <!--content-->
                 <div class="content">
-                <div class="container marketing" align="middle" style="width: auto; height: auto;">
-                <div class="row" align="middle">
-                        <div style="width: 1000px; height:640px;">
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                    <table>
+                        <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/disposables/pipette tips.jpg" alt="טיפים לפיפטורים" class="prod" style="height:200px; width: 120px;">
@@ -138,9 +137,11 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-             
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                </div>                                
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/disposables/pd tips.jpg" alt="טיפים לקוצב מנות" class="prod" style="height:200px; width: 170px;">
@@ -155,9 +156,11 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-             
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                </div>                                
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/disposables/cuvettes.jpg" alt="קיווטות" class="prod" style="height:200px; width: 100px;">
@@ -173,15 +176,16 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        
-                        <div style="width: 1200px; height: 640px;">             
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                </div>                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/disposables/pcr plates.jpg" alt="פלטות PCR" class="prod" style="height:200px; width: 120px;">
-                                        <div class="caption" style="height: auto; width: 220px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
                                             <h3>פלטות PCR</h3>
                                             <p>פלטות לרובוט PCR תוצרת BRAND גרמניה.</p>
                                             <p><a href="http://www.brand.de/en/products/life-science-products/pcr-disposable-products/" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
@@ -191,9 +195,11 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                                </div>
+                            </td>
                             
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                            <td>
+                             <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/disposables/plates.jpg" alt="microplates" class="prod" style="height:150px; width: 170px;">
@@ -209,9 +215,11 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-             
-                            <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                </div>   
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/disposables/eppendorf.jpg" alt="מיקרו-מבחנות" class="prod" style="height:150px; width: 120px;">
@@ -225,16 +233,16 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-             
-                        </div>
-                    
-                    <div style="width: 800px; height:auto">
-                        <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
                                         <img src="images/disposables/sampling spoons.jpg" alt="כפיות דגימה" class="prod" style="height:200px; width: 190px;">
-                                        <div class="caption" style="height: auto; width: 280px;">
+                                        <div class="caption" style="height: auto; width: 235px;">
                                             <h3>כפיות דגימה</h3>
                                             <p>כפיות דגימה סטריליות תוצרת BEL-ART ארה"ב.</p>
                                             <p>מלוות בתעודת עיקור.</p>
@@ -243,13 +251,15 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        
-                        <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                </div>
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
-                                        <img src="images/disposables/select scoops.jpg" alt="כפות דגימה" class="prod" style="height:200px; width: 200px;">
-                                        <div class="caption" style="height: auto; width: 280px;">
+                                        <img src="images/disposables/select scoops.jpg" alt="כפות דגימה" class="prod" style="height:180px; width: 190px;">
+                                        <div class="caption" style="height: auto; width: 235px;">
                                             <h3>כפות דגימה</h3>
                                             <p>כפות דגימה PP תוצרת BEL-ART ארה"ב.</p>
                                             <p>מתאימות לאוטוקלאב.</p>
@@ -258,11 +268,83 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                    </div>
-                    
-                    </div>
-                </div>
+                                </div>
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/disposables/pasteur pipettes.jpg" alt="פיפטות פסטר" class="prod" style="height:200px; width: 100px;">
+                                        <div class="caption" style="height: auto; width: 200px;">
+                                            <h3>פיפטות פסטר</h3>
+                                            <p>פיפטות פסטר PE תוצרת KARTELL איטליה.</p>
+                                            <p>לא סטריליות.</p>
+                                            <p>נפחים 1 מ"ל ו-3 מ"ל: אריזות של 500 יח'.</p>
+                                            <p><a href="http://www.kartelllabware.com/en/content/pasteur-pipette" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/disposables/scintillation vials.jpg" alt="וייל סנטילציה" class="prod" style="height:200px; width: 120px;">
+                                        <div class="caption" style="height: auto; width: 200px;">
+                                            <h3>וייל סנטילציה</h3>
+                                            <p>תוצרת KARTELL איטליה.</p>
+                                            <p>וייל סנטילציה PE 20 מ"ל.</p>
+                                            <p>בעל פקק הברגה PP.</p>
+                                            <p><a href="http://www.kartelllabware.com/en/content/scintillation-vials" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/disposables/urine cups.jpg" alt="כוסות שתן" class="prod" style="height:200px; width: 220px;">
+                                        <div class="caption" style="height: auto; width: 250px;">
+                                            <h3>כוסות שתן</h3>
+                                            <p>כוסות שתן PP תוצרת KARTELL איטליה.</p>
+                                            <p>150 מ"ל פקק הברגה אדום.</p>
+                                            <p>ארוז בודד.</p>
+                                            <p><a href="http://www.kartelllabware.com/en/content/urine-cups-screw-cap-0" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/disposables/balance boats.jpg" alt="קעריות שקילה" class="prod" style="height:200px; width: 230px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>קעריות שקילה</h3>
+                                            <p>קעריות שקילה PS תוצרת KARTELL איטליה.</p>
+                                            <p>צורת מעוין לבן או שחור.</p>
+                                            <p>מידות: 31x55 מ"מ.</p>
+                                            <p><a href="http://www.kartelllabware.com/en/content/balance-boats" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
         </div>
          
