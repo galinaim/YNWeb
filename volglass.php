@@ -105,9 +105,9 @@
                         <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
                         <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
                         <li><a href='solutions.php'><span>תמיסות</span></a></li>
-                        <li><a href='#'><span>עבודות בית מלאכה</span></a></li>
-                        <li><a href='#'><span>ניקיון כלים</span></a></li>
-                        <li><a href='#'><span>מעבדת כיולים</span></a></li>
+                        <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
+                        <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
+                        <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
                         <li><a href='#'><span>כלי זכוכית</span></a></li>
                         <li><a href='#'><span>ניירות סינון</span></a></li>
                         <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>

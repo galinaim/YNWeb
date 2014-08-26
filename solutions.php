@@ -100,9 +100,9 @@
                         <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
                         <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
                         <li><a href='solutions.php'><span>תמיסות</span></a></li>
-                        <li><a href='#'><span>עבודות בית מלאכה</span></a></li>
-                        <li><a href='#'><span>ניקיון כלים</span></a></li>
-                        <li><a href='#'><span>מעבדת כיולים</span></a></li>
+                        <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
+                        <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
+                        <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
                         <li><a href='#'><span>כלי זכוכית</span></a></li>
                         <li><a href='#'><span>ניירות סינון</span></a></li>
                         <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>
@@ -320,7 +320,17 @@
                             </td>
                             
                             <td>
-                                
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <img class="img-circle" src="images/Solutions/Distilled Water.jpg" alt="מים מזוקקים" style="height:140px; width: 140px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>מים מזוקקים</h3>
+                                            <p>עם תעודת אנליזה</p>
+                                            <p>מתאים לשימוש ב-HPLC</p>
+                                            <p>ניתן לרכוש מיכל של 10 ליטר או של 20 ליטר</p>
+                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                </div>
                             </td>
                             
                         </tr>

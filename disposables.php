@@ -100,9 +100,9 @@
                         <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
                         <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
                         <li><a href='solutions.php'><span>תמיסות</span></a></li>
-                        <li><a href='#'><span>עבודות בית מלאכה</span></a></li>
-                        <li><a href='#'><span>ניקיון כלים</span></a></li>
-                        <li><a href='#'><span>מעבדת כיולים</span></a></li>
+                        <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
+                        <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
+                        <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
                         <li><a href='#'><span>כלי זכוכית</span></a></li>
                         <li><a href='#'><span>ניירות סינון</span></a></li>
                         <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>
@@ -311,13 +311,13 @@
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
-                                        <img src="images/disposables/urine cups.jpg" alt="כוסות שתן" class="prod" style="height:200px; width: 220px;">
-                                        <div class="caption" style="height: auto; width: 250px;">
-                                            <h3>כוסות שתן</h3>
-                                            <p>כוסות שתן PP תוצרת KARTELL איטליה.</p>
-                                            <p>150 מ"ל פקק הברגה אדום.</p>
-                                            <p>ארוז בודד.</p>
-                                            <p><a href="http://www.kartelllabware.com/en/content/urine-cups-screw-cap-0" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                        <img src="images/disposables/write-on lables.jpg" alt="סרטי סימון" class="prod" style="height:200px; width: 180px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>סרטי סימון</h3>
+                                            <p>סרטי סימון תוצרת BEL-ART האמריקאית.</p>
+                                            <p>סרטי סימון באורך 36.6 מטר (הארוכים ביותר בשוק!).</p>
+                                            <p>הסרטים עמידים באוטוקלאב ובטמפ' נמוכות של עד -80oC, לא מותירים סימן בעת הורדה  ומגיעים בשלל צבעים.</p>
+                                            <p><a href="images/disposables/Lables.jpg" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
                                             <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
@@ -394,6 +394,28 @@
                                 </div>
                                 </div>
                             </td>
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/disposables/urine cups.jpg" alt="כוסות שתן" class="prod" style="height:200px; width: 220px;">
+                                        <div class="caption" style="height: auto; width: 250px;">
+                                            <h3>כוסות שתן</h3>
+                                            <p>כוסות שתן PP תוצרת KARTELL איטליה.</p>
+                                            <p>150 מ"ל פקק הברגה אדום.</p>
+                                            <p>ארוז בודד.</p>
+                                            <p><a href="http://www.kartelllabware.com/en/content/urine-cups-screw-cap-0" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </td>
+                            
                         </tr>
                     </table>
                 </div>
