@@ -34,7 +34,22 @@
     <body>
         
         <?php
+        
+       
+            
+            if((strcmp ( "gali" , $_POST['UN']) == 0 ) &&
+                    (strcmp ( "123" , $_POST['Pass']) == 0 ))      
+            {
+                echo "You connected!";
+            }
+            else
+            {
+               
+                 echo "Wrong details";
+            }
 
+/*
+ 
 $connect = mysql_connect("localhost:3307", "root", "PassWord1992");
 
 if(!$connect){
@@ -45,6 +60,7 @@ die(mysql_error());
 else {
     echo "You are connected! ";
 }
+
 
 
 //Selecting database
@@ -65,7 +81,7 @@ $Password = $_POST['sign']['Pass'];
 
 echo $User;
 echo $Password;
-
+*/
 function SignIn() {
     
 session_start(); //starting the session for user profile page

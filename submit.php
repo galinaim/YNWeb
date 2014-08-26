@@ -4,10 +4,12 @@
 require_once "Mail.php";
 
 $from = '<from.gmail.com>';
-$to = '<galinaim@walla.com>';
-$subject = 'Hi!';
-$body = "Hi,\n\nHow are you?";
-
+$to = '<idoshabi@gmail.com>';
+$subject = "You got request from".$_POST['FullName'];
+$body = "Hi,\n You received request from: " .$_POST['FullName'] 
+        ."\n Email: ".$_POST['Email']."\n Phone".$_POST['PhoneNunber'].
+        "\n Message: \n".$_POST['RequestInfo'] ;
+echo $body;
 $headers = array(
     'From' => $from,
     'To' => $to,
