@@ -37,41 +37,36 @@
     
         <div class="wrap">
             
-            <div class="mycontainer">
-                <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                    </div>
-                    
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse navbar-ex1-collapse ">
-                        <ul class="nav navbar-nav navbar-right  "  id="menu_items">
-                            <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
-                            <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
-                            <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
-                            <li class="navbar-right"> <a href="#">נציגויות</a></li>
-                            <li class="navbar-right"> <a href="#">מפת הגעה</a></li>
-                            <li class="navbar-right"><a href="#">צור קשר</a></li>
-                        </ul>
-                        
-                        <form class="navbar-form navbar-left" role="search" action="Try.php" method="get">
-                            <div class="form-group">
-                                <input type="text" class="form-control" name="search">
-                            </div>
-                            <button type="submit" class="btn btn-default">חיפוש</button>
-			</form>
-                        
-                    </div><!-- /.navbar-collapse -->
-                        
-                </nav>
-                
-            </div>
+	<div class="mycontainer">
+      <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
+           <!-- Brand and toggle get grouped for better mobile display -->
+           <div class="navbar-header">
+             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+             </button>
+           </div>
+         
+           <!-- Collect the nav links, forms, and other content for toggling -->
+           <div class="collapse navbar-collapse navbar-ex1-collapse ">
+		   
+                 <ul class="nav navbar-nav navbar-right  "  id="menu_items">
+               <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
+               <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
+                <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
+				<li class="navbar-right"> <a href="#">נציגויות</a></li>
+				<li class="navbar-right"> <a href="#">מפת הגעה</a></li>
+                                <li class="navbar-right"><a href="contact.php">צור קשר</a></li>
+             
+
+
+</ul>			
+           </div><!-- /.navbar-collapse -->
+           
+        </nav>
+	</div>
         
            
             <div class="main">
@@ -83,38 +78,33 @@
                         <p>המוצרים המתכלים המשווקים ע"י יואל נעים בע"מ או נעים בל-ארט הם ברמה הגבוהה ביותר והינם תוצרת גרמניה, ארה"ב או איטליה. המוצרים המתכלים מלווים בכלל התעודות הנדרשות.</p>
                         <p>קטגורית המוצרים המתכלים הינה קטגוריה רחבה ביותר, ולהלן יובאו רק חלק מן הפריטים המקוטלגים תחתה.</p>
                         <p>לכל שאלה בנוגע למוצרים מתכלים, בין אם הם מופיעים בדף זה ובין אם לא, ניתן ליצור עימנו קשר.</p>
-                        <p><a class="btn btn-primary btn-lg" role="button" href="#">לקבלת הצעת מחיר</a></p>
+                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
                             <!-- Vertical nav-bar -->
-            <div style="height: 100%;">
-                <div id='cssmenu'>
-                    <ul>
-                        <li class='active has-sub'><a href='#'><span>כלי מדידה</span></a>
-                            <ul>
-                                <li class='has-sub'><a href='volglass.php'><span>זכוכית</span></a></li>
-                                <li class='has-sub'><a href='volplastic.php'><span>פלסטיק</span></a></li>
-                            </ul>
-                        </li>
-                        <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
-                        <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
-                        <li><a href='solutions.php'><span>תמיסות</span></a></li>
-                        <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
-                        <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
-                        <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
-                        <li><a href='#'><span>כלי זכוכית</span></a></li>
-                        <li><a href='#'><span>ניירות סינון</span></a></li>
-                        <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>
-                        <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
-                        <li><a href='#'><span>טרמומטרים והידרומטרים</span></a></li>
-                        <li><a href='#'><span>סטנדרטים</span></a></li>
-                        <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-                        <li><a href='#'><span>הדרכות ויעוץ</span></a></li>
-                        <li class='last'><a href='#'><span>סרטוני הדרכה</span></a></li>
-                    </ul>
-                </div>
-            </div>
+<div style="height: 100%;">
+	<div id='cssmenu'>
+	<ul>
+            <li><a href='volglass.php'><span>ציוד מדידה זכוכית</span></a></li>
+            <li><a href='volplastic.php'><span>ציוד מדידה פלסטיק</span></a></li>
+            <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
+            <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
+            <li><a href='solutions.php'><span>תמיסות</span></a></li>
+            <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
+            <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
+            <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
+            <li><a href='glassware.php'><span>כלי זכוכית</span></a></li>
+            <li><a href='filter paper.php'><span>ניירות סינון</span></a></li>
+            <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>
+            <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
+            <li><a href='#'><span>טרמומטרים והידרומטרים</span></a></li>
+            <li><a href='#'><span>סטנדרטים</span></a></li>
+            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+        </ul>
+        </div>
+</div>
                 
                 <!--content-->
                 <div class="content">
@@ -133,7 +123,7 @@
                                             <p>לקבלת דוגמיות של טיפים של BRAND ניתן ליצור עימנו קשר.</p>
                                             <p><a href="http://www.brand.de/en/products/liquid-handling/pipette-tips-filter-tips-new/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                             <a href="http://catalog.brand.de/index.php?chapter=1795&xtree=1&begin=0&ID_O_TREE_GROUP=1795&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר/דוגמיות</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר/דוגמיות</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -152,7 +142,7 @@
                                             <p>בזכות הבוכנה ומבנה המזרק, מתאימים טיפים אלו גם לעבודה עם חומרים צמיגיים וחומרים בעלי לחץ אדים השונה ממים.</p>
                                             <p><a href="http://www.brand.de/en/products/liquid-handling/pd-tips/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                             <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=420&chapter=420&xtree=1&begin=0&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -172,7 +162,7 @@
                                             <p>לקבלת דוגמיות של קיווטות של BRAND ניתן ליצור עימנו קשר.</p>
                                             <p><a href="http://www.brand.de/en/products/life-science-products/cuvettes-and-accessories/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                             <a href="http://catalog.brand.de/index.php?chapter=76&xtree=1&begin=0&ID_O_TREE_GROUP=76&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר/דוגמיות</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר/דוגמיות</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -191,7 +181,7 @@
                                             <p><a href="http://www.brand.de/en/products/life-science-products/pcr-disposable-products/" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
                                             <p><a href="http://www.brand.de/fileadmin/user/pdf/compatibility_charts/PCR/PCR_Compatibility_EN_.pdf" target="_blank" class="btn btn-primary" role="button">לטבלת התאמה מפורטת</a></p>
                                             <p><a href="http://catalog.brand.de/index.php?chapter=75&xtree=1&begin=0&ID_O_TREE_GROUP=75&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -211,7 +201,7 @@
                                             <p><a href="http://www.brand.de/fileadmin/user/pdf/compatibility_charts/Geraete-Kompatibilitaet_EN_0413.pdf" target="_blank" class="btn btn-primary" role="button">לטבלת התאמה פלטה-רובוט</a></p>
                                             <p><a href="http://www.brand.de/en/products/life-science-products/brandplatesr-microplates/" target="_blank" class="btn btn-primary" role="button">לפרטים נוספים</a></p>
                                             <p><a href="http://catalog.brand.de/index.php?chapter=491&xtree=1&begin=0&ID_O_TREE_GROUP=491&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר/דוגמיות</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר/דוגמיות</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -228,7 +218,7 @@
                                             <p>סרט איטום PARAFILM® M</p>
                                             <p>PM-996</p>
                                             <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=80&chapter=80&ID_O_PRODUCT=485&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -246,7 +236,7 @@
                                             <p>כפיות דגימה סטריליות תוצרת BEL-ART ארה"ב.</p>
                                             <p>מלוות בתעודת עיקור.</p>
                                             <p><a href="http://www.belart.com/shop/369440000-sterilewarereg-sampling-spoons-teaspoon-p-369440000.html" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -263,7 +253,7 @@
                                             <p>כפות דגימה PP תוצרת BEL-ART ארה"ב.</p>
                                             <p>מתאימות לאוטוקלאב.</p>
                                             <p><a href="http://www.belart.com/shop/367480000-scoops-60cc-p-367480000.html" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -281,7 +271,7 @@
                                             <p>לא סטריליות.</p>
                                             <p>נפחים 1 מ"ל ו-3 מ"ל: אריזות של 500 יח'.</p>
                                             <p><a href="http://www.kartelllabware.com/en/content/pasteur-pipette" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -300,7 +290,7 @@
                                             <p>וייל סנטילציה PE 20 מ"ל.</p>
                                             <p>בעל פקק הברגה PP.</p>
                                             <p><a href="http://www.kartelllabware.com/en/content/scintillation-vials" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -318,7 +308,7 @@
                                             <p>סרטי סימון באורך 36.6 מטר (הארוכים ביותר בשוק!).</p>
                                             <p>הסרטים עמידים באוטוקלאב ובטמפ' נמוכות של עד -80oC, לא מותירים סימן בעת הורדה  ומגיעים בשלל צבעים.</p>
                                             <p><a href="images/disposables/Lables.jpg" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -336,7 +326,7 @@
                                             <p>צורת מעוין לבן או שחור.</p>
                                             <p>מידות: 31x55 מ"מ.</p>
                                             <p><a href="http://www.kartelllabware.com/en/content/balance-boats" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -355,7 +345,7 @@
                                             <p>מתאימות לאוטוקלאב.</p>
                                             <p><a href="http://www.brand.de/en/products/life-science-products/micro-tubes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
                                             <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=412&chapter=412&xtree=1&begin=0&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -371,7 +361,7 @@
                                             <h3>מבחנות</h3>
                                             <p>מבחנות PP ו-PS תוצרת KARTELL איטליה</p>
                                             <p><a href="http://www.kartelllabware.com/en/content/disposable-tubes" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -388,7 +378,7 @@
                                             <p>פקק כנפיים PE תוצרת KARTELL איטליה</p>
                                             <p>קוטר 11-13 מ"מ וקוטר 16 מ"מ</p>
                                             <p><a href="http://www.kartelllabware.com/en/content/finned-plugs-disposable-tubes" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -409,7 +399,7 @@
                                             <p>150 מ"ל פקק הברגה אדום.</p>
                                             <p>ארוז בודד.</p>
                                             <p><a href="http://www.kartelllabware.com/en/content/urine-cups-screw-cap-0" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>

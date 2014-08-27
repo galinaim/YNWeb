@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="he" >
    <head>
-     <title>תמיסות</title>
+     <title>כלי זכוכית</title>
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta charset="UTF-8">
      
@@ -61,6 +61,7 @@
                                 <li class="navbar-right"><a href="contact.php">צור קשר</a></li>
              
 
+
 </ul>			
            </div><!-- /.navbar-collapse -->
            
@@ -72,12 +73,13 @@
                 <!--jumbotron-->
                 <div class="jumbotron">
                     <div class="container" style="direction: rtl">
-                        <h2 class='products1'>תמיסות</h2>
-                        <p>תמיסות מפוקטרות מוכנות לטיטרציה בריכוזים שונים תוצרת SOLUFIX ישראל.</p>
-                        <p>התמיסות מוגדרות אנליטיות ומלוות בתעודת אנליזה לפי תקן ISO 9001:2008. התמיסות נמצאות בשימוש ברוב המעבדות בארץ בתחום הכימיה, הרפואה, המזון, הקוסמטיקה וכו'.</p>
-                        <p>בנוסף לתמיסות המופיעות להלן ניתן להזמין גם תמיסות מפוקטרות מיוחדות לפי מפרט לקוח, תמיסות אינדיקטור ואף תמיסות למגזר החקלאי כמו הורמוני השרשה בריכוזים שונים.</p>
-                        <a class="btn btn-primary btn-lg" role="button" href="images/solufix.pdf" target="_blank">לפרטים</a>
-                        <a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a></p>
+                        <h2 class='products1'>כלי זכוכית</h2>
+                        <p>ציוד המעבדה בו נעשה השימוש הרב ביותר והאגרסיבי ביותר במעבדה!</p>
+                        <p>כלי הזכוכית הם כלי העבודה של המעבדה, בהם מערבבים, מחממים, מסננים, לוחצים.... וזה רק חלק מהלחץ המופעל עליהם כל יום.</p>
+                        <p>מסיבה זו אין להתפשר על איכות כלי הזכוכית במעבדה! לא חסרים סיפורים על עובדי מעבדה שכוס כימית או בקבוק יניקה נסדקו להם במהלך העבודה.</p>
+                        <p>מסיבה זו אנו בחברות יואל נעים בע"מ ונעים בל-ארט מקפידים להחזיק רק בכלי זכוכית באיכות הגבוהה ביותר.</p>
+                        <p>* הערה: למרות השנתות המופיעות על חלק מכלי הזכוכית (לדוגמה: ארלנמאייר, כוס כימית, מזרק ובקבוק מעבדה) אין להתבלבל ולחשוב אותם לכלי מדידה! השנתות המופיעות על כלים אלו מעידות על נפח משוער בלבד.</p>
+                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
@@ -109,221 +111,205 @@
                 <div class="content">
                     <table>
                         <tr>
-                            
                             <td>
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                        <img class="img-circle" src="images/Solutions/EDTA.gif" alt="EDTA" style="height:140px; width: 140px;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/beaker.jpg" alt="כוס כימית" class="prod" style="height:200px; width: 220px;">
                                         <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>EDTA</h3>
-                                            <p>ריכוזים:</p>
-                                            <p>0.01M</p>
-                                            <p>0.02M</p>
-                                            <p>0.025M</p>
-                                            <p>0.1M</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר או במיכל של 10 ליטר</p>
+                                            <h3>כוס כימית</h3>
+                                            <p>זכוכית, PP, PMP וטפלון</p>
+                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=341&chapter=341&ID_O_PRODUCT=242&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">זכוכית</a>
+                                            <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=341&chapter=341&ID_O_PRODUCT=86854&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">PMP</a>
+                                            <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=341&chapter=341&ID_O_PRODUCT=86868&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">PP</a>
+                                            <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=341&chapter=341&ID_O_PRODUCT=236&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">טפלון</a></p>
                                             <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
+                                    </div>
                                 </div>
-                            </div>                              
+                                </div>                                
                             </td>
                             
                             <td>
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                        <img class="img-circle" src="images/Solutions/hcl.png" alt="HCl" style="height:140px; width: 140px;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/erlemayer.jpg" alt="ארלנמאייר" class="prod" style="height:200px; width: 200px;">
                                         <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>Hydrochloric acid</h3>
-                                            <p>ריכוזים:</p>
-                                            <p>0.1M</p>
-                                            <p>0.2M</p>
-                                            <p>0.5M</p>
-                                            <p>1.0M</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר או במיכל של 10 ליטר</p>
+                                            <h3>ארלנמאייר</h3>
+                                            <p>זכוכית ו-PP</p>
+                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=323&chapter=323&ID_O_PRODUCT=244&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">זכוכית</a>
+                                            <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=323&chapter=323&ID_O_PRODUCT=246&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">PP</a></p>
                                             <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
+                                    </div>
                                 </div>
-                            </div>                               
+                                </div>                                 
                             </td>
                             
                             <td>
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/potassium permanganate.jpg" alt="Potassium Permanganate" style="height:140px; width: 140px; ">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/lab bottle.jpg" alt="בקבוק מעבדה" class="prod" style="height:200px; width: 200px;">
                                         <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>Potassium Permanganate</h3>
-                                            <p>ריכוז: 0.02M</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר או במיכל של 10 ליטר</p>
+                                            <h3>בקבוק מעבדה</h3>
+                                            <p>בקבוק זכוכית עם פקק הברגה PP</p>
+                                            <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=468&chapter=468&ID_O_PRODUCT=278&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
                                             <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
+                                    </div>
                                 </div>
-                            </div>
+                                </div>                                 
                             </td>
-                            
                         </tr>
                         
+                                                <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/desicator.jpg" alt="דסיקטור" class="prod" style="height:200px; width: 200px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>דסיקטור</h3>
+                                            <p>דסיקטור עם ברז</p>
+                                            <p>זכוכית או PP</p>
+                                            <p>ניתן לרכוש גם פלטה מתאימה</p>
+                                            <p>ניתן לרכוש גם סיליקה ג'ל</p>
+                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=84&chapter=84&ID_O_PRODUCT=190&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">זכוכית</a>
+                                            <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=84&chapter=84&ID_O_PRODUCT=194&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">PP</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div> 
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/filtering flask.jpg" alt="בקבוק יניקה" class="prod" style="height:200px; width: 200px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>בקבוק יניקה</h3>
+                                            <p>זכוכית</p>
+                                            <p>מתאים לעבודה בואקום גבוה</p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div> 
+                            </td>
+                            
+                            <td>
+                                                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/microfiltration system.jpg" alt="מערכת סינון" class="prod" style="height:200px; width: 140px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>מערכת סינון</h3>
+                                            <p>מערכת סינון קומפלט זכוכית הכוללת</p>
+                                            <p>בקבוק יניקה</p>
+                                            <p>משפך סינטר</p>
+                                            <p>ותופסן</p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                                 
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/petri.jpg" alt="צלחות פטרי" class="prod" style="height:200px; width: 240px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>צלחות פטרי</h3>
+                                            <p>זכוכית ו-PS</p>
+                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=426&chapter=426&ID_O_PRODUCT=417&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">PS קוטר 90mm</a>
+                                            <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=426&chapter=426&ID_O_PRODUCT=418&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">PS קוטר 55mm</a></p>
+                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=426&chapter=426&ID_O_PRODUCT=420&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">זכוכית</a>
+                                                <a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div> 
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/weighing bottles.jpg" alt="בקבוק שקילה" class="prod" style="height:200px; width: 200px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>בקבוק שקילה</h3>
+                                            <p>זכוכית</p>
+                                            <p>במידות שונות</p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div> 
+                            </td>
+                            
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/crystallizing dish.jpg" alt="קעריות גיבוש" class="prod" style="height:180px; width: 200px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>קעריות גיבוש</h3>
+                                            <p>זכוכית</p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div> 
+                            </td>
+                        </tr>
+
                         <tr>
                             
                             <td>
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/Silver nitrate.jpg" alt="Silver Nitrate" style="height:140px; width: 140px;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/tubes.jpg" alt="מבחנות" class="prod" style="height:200px; width: 180px;">
                                         <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>Silver Nitrate</h3>
-                                            <p>ריכוזים:</p>
-                                            <p>0.01M</p>
-                                            <p>0.02M</p>
-                                            <p>0.05M</p>
-                                            <p>0.1M</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר, 2.5 ליטר או במיכל של 10 ליטר</p>
+                                            <h3>מבחנות זכוכית</h3>
+                                            <p>בגדלים שונים</p>
                                             <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
+                                    </div>
                                 </div>
-                            </div>
+                                </div>
+
                             </td>
                             
                             <td>
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/sodium hydroxide.jpg" alt="Sodium Hydroxide" style="height:140px; width: 140px;">
+                                    <div class="thumbnail">
+                                        <img src="images/glassware/glass syringe.jpg" alt="מזרק זכוכית" class="prod" style="height:200px; width: 200px;">
                                         <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>Sodium Hydroxide</h3>
-                                            <p>ריכוזים:</p>
-                                            <p>0.01M</p>
-                                            <p>0.02M</p>
-                                            <p>0.1M</p>
-                                            <p>0.2M</p>
-                                            <p>0.25M</p>
-                                            <p>0.5M</p>
-                                            <p>1.0M</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר או במיכל של 10 ליטר</p>
+                                            <h3>מזרק זכוכית</h3>
+                                            <p>מזרק המילטון בנפחים שונים</p>
                                             <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
+                                    </div>
                                 </div>
-                            </div>
+                                </div>
                             </td>
                             
                             <td>
-                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
-                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/sodium thiosulfate.png" alt="Sodium Thiosulfate" style="height:140px; width: 140px;">
-                                        <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>Sodium Thiosulfate</h3>
-                                            <p>ריכוזים:</p>
-                                            <p>0.1M</p>
-                                            <p>1.0M</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר או במיכל של 10 ליטר</p>
-                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
-                                        </div>
-                                </div>
-                            </div>
+
                             </td>
-                            
                         </tr>
-                        
-                        <tr>
-                            
-                            <td>
-                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
-                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/sulfuric acid.png" alt="Sulfuric acid" style="height:140px; width: 140px;">
-                                        <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>Sulfuric acid</h3>
-                                            <p>ריכוזים:</p>
-                                            <p>0.05M</p>
-                                            <p>0.25M</p>
-                                            <p>0.5M</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר או במיכל של 10 ליטר</p>
-                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
-                                        </div>
-                                </div>
-                            </div>
-                            </td>
-                            
-                            <td>
-                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
-                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/pH.jpg" alt="Buffer pH" style="height:140px; width: 140px;">
-                                        <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>Buffer pH solutions</h3>
-                                            <p>ערכים:</p>
-                                            <p>4 pH</p>
-                                            <p>7 pH</p>
-                                            <p>9 pH</p>
-                                            <p>10 pH</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר או במיכל של 10 ליטר</p>
-                                            <p>לעאכים נוספים ניתן ליצור עימנו קשר</p>
-                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
-                                        </div>
-                                </div>
-                            </div>
-                            </td>
-                            
-                            <td>
-                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
-                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/Iodine.jpg" alt="Iodine" style="height:140px; width: 140px;">
-                                        <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>Iodine</h3>
-                                            <p>ריכוזים:</p>
-                                            <p>0.005M</p>
-                                            <p>0.05M</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר</p>
-                                            <p></p>
-                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
-                                        </div>
-                                </div>
-                            </div>
-                            </td>
-                            
-                        </tr>
-                        
-                        <tr>
-                            
-                            <td>
-                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
-                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/Potassium thiocyanate.jpg" alt="Potassium Thiocyanate" style="height:140px; width: 140px;">
-                                        <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>Potassium Thiocyanate</h3>
-                                            <p>ריכוז: 0.1M</p>
-                                            <p>ניתן לרכוש בבקבוק של 1 ליטר</p>
-                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
-                                        </div>
-                                </div>
-                            </div>
-                            </td>
-                            
-                            <td>
-                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
-                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/IBA.jpg" alt="IBA" style="height:140px; width: 140px;">
-                                        <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>הורמון השרשה IBA</h3>
-                                            <p>ריכוזים שונים לפי דרישת לקוח</p>
-                                            <p>ניתן לרכוש בבקבוקים של 1 ליטר</p>
-                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
-                                        </div>
-                                </div>
-                            </div>
-                            </td>
-                            
-                            <td>
-                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
-                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <img class="img-circle" src="images/Solutions/Distilled Water.jpg" alt="מים מזוקקים" style="height:140px; width: 140px;">
-                                        <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>מים מזוקקים</h3>
-                                            <p>עם תעודת אנליזה</p>
-                                            <p>מתאים לשימוש ב-HPLC</p>
-                                            <p>ניתן לרכוש מיכל של 10 ליטר או של 20 ליטר</p>
-                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
-                                        </div>
-                                </div>
-                            </td>
-                            
-                        </tr>
-                            
+
                     </table>
                 </div>
         </div>

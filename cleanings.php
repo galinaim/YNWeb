@@ -37,41 +37,36 @@
     
         <div class="wrap">
             
-            <div class="mycontainer">
-                <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                    </div>
-                    
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse navbar-ex1-collapse ">
-                        <ul class="nav navbar-nav navbar-right  "  id="menu_items">
-                            <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
-                            <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
-                            <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
-                            <li class="navbar-right"> <a href="#">נציגויות</a></li>
-                            <li class="navbar-right"> <a href="#">מפת הגעה</a></li>
-                            <li class="navbar-right"><a href="#">צור קשר</a></li>
-                        </ul>
-                        
-                        <form class="navbar-form navbar-left" role="search" action="Try.php" method="get">
-                            <div class="form-group">
-                                <input type="text" class="form-control" name="search">
-                            </div>
-                            <button type="submit" class="btn btn-default">חיפוש</button>
-			</form>
-                        
-                    </div><!-- /.navbar-collapse -->
-                        
-                </nav>
-                
-            </div>
+	<div class="mycontainer">
+      <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
+           <!-- Brand and toggle get grouped for better mobile display -->
+           <div class="navbar-header">
+             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+             </button>
+           </div>
+         
+           <!-- Collect the nav links, forms, and other content for toggling -->
+           <div class="collapse navbar-collapse navbar-ex1-collapse ">
+		   
+                 <ul class="nav navbar-nav navbar-right  "  id="menu_items">
+               <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
+               <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
+                <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
+				<li class="navbar-right"> <a href="#">נציגויות</a></li>
+				<li class="navbar-right"> <a href="#">מפת הגעה</a></li>
+                                <li class="navbar-right"><a href="contact.php">צור קשר</a></li>
+             
+
+
+</ul>			
+           </div><!-- /.navbar-collapse -->
+           
+        </nav>
+	</div>
         
            
             <div class="main">
@@ -90,33 +85,28 @@
                 </div>
                 
                             <!-- Vertical nav-bar -->
-            <div style="height: 100%;">
-                <div id='cssmenu'>
-                    <ul>
-                        <li class='active has-sub'><a href="#"><span>כלי מדידה</span></a>
-                            <ul>
-                                <li class='has-sub'><a href='volglass.php'><span>זכוכית</span></a></li>
-                                <li class='has-sub'><a href='volplastic.php'><span>פלסטיק</span></a></li>
-                            </ul>
-                        </li>
-                        <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
-                        <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
-                        <li><a href='solutions.php'><span>תמיסות</span></a></li>
-                        <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
-                        <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
-                        <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
-                        <li><a href='#'><span>כלי זכוכית</span></a></li>
-                        <li><a href='#'><span>ניירות סינון</span></a></li>
-                        <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>
-                        <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
-                        <li><a href='#'><span>טרמומטרים והידרומטרים</span></a></li>
-                        <li><a href='#'><span>סטנדרטים</span></a></li>
-                        <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-                        <li><a href='#'><span>הדרכות ויעוץ</span></a></li>
-                        <li class='last'><a href='#'><span>סרטוני הדרכה</span></a></li>
-                    </ul>
-                </div>
-            </div>
+<div style="height: 100%;">
+	<div id='cssmenu'>
+	<ul>
+            <li><a href='volglass.php'><span>ציוד מדידה זכוכית</span></a></li>
+            <li><a href='volplastic.php'><span>ציוד מדידה פלסטיק</span></a></li>
+            <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
+            <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
+            <li><a href='solutions.php'><span>תמיסות</span></a></li>
+            <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
+            <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
+            <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
+            <li><a href='glassware.php'><span>כלי זכוכית</span></a></li>
+            <li><a href='filter paper.php'><span>ניירות סינון</span></a></li>
+            <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
+            <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
+            <li><a href='#'><span>טרמומטרים והידרומטרים</span></a></li>
+            <li><a href='#'><span>סטנדרטים</span></a></li>
+            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+        </ul>
+        </div>
+</div>
                 
                 <!--content-->
                 <div class="content">
@@ -136,7 +126,7 @@
                                             <p>ניתן לרכוש את החומר בבקבוקים של 1 ליטר או 5 ליטר.</p>
                                             <p><a href="images/Cleaning/Mucasol.pdf" target="_blank" class="btn btn-primary" role="button">לפרטים נוספים</a>
                                                 <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=299&chapter=299&ID_O_PRODUCT=147&begin=0&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a>
-                                                <a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                                <a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -152,7 +142,7 @@
                                             <h3>Pursept</h3>
                                             <p>חומר לחיטוי משטחים</p>
                                             <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=312&chapter=312&ID_O_PRODUCT=152&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a>
-                                            <a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                                <a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -172,7 +162,7 @@
                                             <h3>לוח ייבוש כלים</h3>
                                             <p>לוח לתלייה וייבוש כלים מ-PP. הפינים של הלוח ניתנים לקביעה לפי רצון ונוחות המשתמש.</p>
                                             <p>ניתן לרכוש גם מתקן לייבוש כלים מתוצרת בית המלאכה של חברתנו לפי מפרט לקוח ובהתאם לדרישות המעבדה.</p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -190,7 +180,7 @@
                                             <p>מערכת PE הכוללת סלסלה ומתקן להשריית פיפטות עומדות.</p>
                                             <p>המערכת עוזרת לשמור על הפיפטות מפני שבר ומאפשרת ניקוי יעיל ואופטימלי.</p>
                                             <p>המערכת קלה ונוחה לשימוש, ואינה תופסת מקום רב במרחב המעבדה.</p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -214,7 +204,7 @@
                                             <p>IPA - פקק וכיתוב צהוב.</p>
                                             <p>METHANOL - פקק וכיתוב ירוק.</p>
                                             <p>NEUTRAL - פקק לבן ללא כיתוב.</p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>

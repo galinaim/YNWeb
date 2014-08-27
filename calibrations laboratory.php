@@ -37,41 +37,36 @@
     
         <div class="wrap">
             
-            <div class="mycontainer">
-                <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                    </div>
-                    
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse navbar-ex1-collapse ">
-                        <ul class="nav navbar-nav navbar-right  "  id="menu_items">
-                            <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
-                            <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
-                            <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
-                            <li class="navbar-right"> <a href="#">נציגויות</a></li>
-                            <li class="navbar-right"> <a href="#">מפת הגעה</a></li>
-                            <li class="navbar-right"><a href="#">צור קשר</a></li>
-                        </ul>
-                        
-                        <form class="navbar-form navbar-left" role="search" action="Try.php" method="get">
-                            <div class="form-group">
-                                <input type="text" class="form-control" name="search">
-                            </div>
-                            <button type="submit" class="btn btn-default">חיפוש</button>
-			</form>
-                        
-                    </div><!-- /.navbar-collapse -->
-                        
-                </nav>
-                
-            </div>
+	<div class="mycontainer">
+      <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
+           <!-- Brand and toggle get grouped for better mobile display -->
+           <div class="navbar-header">
+             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+             </button>
+           </div>
+         
+           <!-- Collect the nav links, forms, and other content for toggling -->
+           <div class="collapse navbar-collapse navbar-ex1-collapse ">
+		   
+                 <ul class="nav navbar-nav navbar-right  "  id="menu_items">
+               <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
+               <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
+                <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
+				<li class="navbar-right"> <a href="#">נציגויות</a></li>
+				<li class="navbar-right"> <a href="#">מפת הגעה</a></li>
+                                <li class="navbar-right"><a href="contact.php">צור קשר</a></li>
+             
+
+
+</ul>			
+           </div><!-- /.navbar-collapse -->
+           
+        </nav>
+	</div>
         
            
             <div class="main">
@@ -93,33 +88,28 @@
                 </div>
                 
                             <!-- Vertical nav-bar -->
-            <div style="height: 100%;">
-                <div id='cssmenu'>
-                    <ul>
-                        <li class='active has-sub'><a href="#"><span>כלי מדידה</span></a>
-                            <ul>
-                                <li class='has-sub'><a href='volglass.php'><span>זכוכית</span></a></li>
-                                <li class='has-sub'><a href='volplastic.php'><span>פלסטיק</span></a></li>
-                            </ul>
-                        </li>
-                        <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
-                        <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
-                        <li><a href='solutions.php'><span>תמיסות</span></a></li>
-                        <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
-                        <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
-                        <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
-                        <li><a href='#'><span>כלי זכוכית</span></a></li>
-                        <li><a href='#'><span>ניירות סינון</span></a></li>
-                        <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>
-                        <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
-                        <li><a href='#'><span>טרמומטרים והידרומטרים</span></a></li>
-                        <li><a href='#'><span>סטנדרטים</span></a></li>
-                        <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-                        <li><a href='#'><span>הדרכות ויעוץ</span></a></li>
-                        <li class='last'><a href='#'><span>סרטוני הדרכה</span></a></li>
-                    </ul>
-                </div>
-            </div>
+<div style="height: 100%;">
+	<div id='cssmenu'>
+	<ul>
+            <li><a href='volglass.php'><span>ציוד מדידה זכוכית</span></a></li>
+            <li><a href='volplastic.php'><span>ציוד מדידה פלסטיק</span></a></li>
+            <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
+            <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
+            <li><a href='solutions.php'><span>תמיסות</span></a></li>
+            <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
+            <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
+            <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
+            <li><a href='glassware.php'><span>כלי זכוכית</span></a></li>
+            <li><a href='filter paper.php'><span>ניירות סינון</span></a></li>
+            <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
+            <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
+            <li><a href='#'><span>טרמומטרים והידרומטרים</span></a></li>
+            <li><a href='#'><span>סטנדרטים</span></a></li>
+            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+        </ul>
+        </div>
+</div>
                 
                 <!--content-->
                 <div class="content">

@@ -37,41 +37,35 @@
     
         <div class="wrap">
             
-            <div class="mycontainer">
-                <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                    </div>
-                    
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse navbar-ex1-collapse ">
-                        <ul class="nav navbar-nav navbar-right  "  id="menu_items">
-                            <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
-                            <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
-                            <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
-                            <li class="navbar-right"> <a href="#">נציגויות</a></li>
-                            <li class="navbar-right"> <a href="#">מפת הגעה</a></li>
-                            <li class="navbar-right"><a href="#">צור קשר</a></li>
-                        </ul>
-                        
-                        <form class="navbar-form navbar-left" role="search" action="Try.php" method="get">
-                            <div class="form-group">
-                                <input type="text" class="form-control" name="search">
-                            </div>
-                            <button type="submit" class="btn btn-default">חיפוש</button>
-			</form>
-                        
-                    </div><!-- /.navbar-collapse -->
-                        
-                </nav>
-                
-            </div>
+	<div class="mycontainer">
+      <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
+           <!-- Brand and toggle get grouped for better mobile display -->
+           <div class="navbar-header">
+             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+             </button>
+           </div>
+         
+           <!-- Collect the nav links, forms, and other content for toggling -->
+           <div class="collapse navbar-collapse navbar-ex1-collapse ">
+		   
+                 <ul class="nav navbar-nav navbar-right  "  id="menu_items">
+               <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
+               <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
+                <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
+				<li class="navbar-right"> <a href="#">נציגויות</a></li>
+				<li class="navbar-right"> <a href="#">מפת הגעה</a></li>
+                                <li class="navbar-right"><a href="contact.php">צור קשר</a></li>
+             
+
+</ul>			
+           </div><!-- /.navbar-collapse -->
+           
+        </nav>
+	</div>
         
            
             <div class="main">
@@ -85,38 +79,33 @@
                         <p>בית המלאכה שלנו, היושב בבאר שבע, מסוגל לייצר כמעט את כל סוגי הציוד לפי מידה וגודל לנוחיות הלקוח הן מ-PP והן מפרספקס.</p>
                         <p>להלן מובאים מספר מהפריטים הסטנדרטים שמייצר בית המלאכה באופן קבוע. לפריטים שונים ניתן ליצור עימנו קשר.</p>
                         <a class="btn btn-primary btn-lg" role="button" href="images/workshop/workshop.jpg" target="_blank">לפרטים נוספים</a>
-                        <a class="btn btn-primary btn-lg" role="button" href="#">לקבלת הצעת מחיר</a></p>
+                        <a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
                             <!-- Vertical nav-bar -->
-            <div style="height: 100%;">
-                <div id='cssmenu'>
-                    <ul>
-                        <li class='active has-sub'><a href="#"><span>כלי מדידה</span></a>
-                            <ul>
-                                <li class='has-sub'><a href='volglass.php'><span>זכוכית</span></a></li>
-                                <li class='has-sub'><a href='volplastic.php'><span>פלסטיק</span></a></li>
-                            </ul>
-                        </li>
-                        <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
-                        <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
-                        <li><a href='solutions.php'><span>תמיסות</span></a></li>
-                        <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
-                        <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
-                        <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
-                        <li><a href='#'><span>כלי זכוכית</span></a></li>
-                        <li><a href='#'><span>ניירות סינון</span></a></li>
-                        <li><a href='#'><span>ערכות לבדיקת מים</span></a></li>
-                        <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
-                        <li><a href='#'><span>טרמומטרים והידרומטרים</span></a></li>
-                        <li><a href='#'><span>סטנדרטים</span></a></li>
-                        <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-                        <li><a href='#'><span>הדרכות ויעוץ</span></a></li>
-                        <li class='last'><a href='#'><span>סרטוני הדרכה</span></a></li>
-                    </ul>
-                </div>
-            </div>
+<div style="height: 100%;">
+	<div id='cssmenu'>
+	<ul>
+            <li><a href='volglass.php'><span>ציוד מדידה זכוכית</span></a></li>
+            <li><a href='volplastic.php'><span>ציוד מדידה פלסטיק</span></a></li>
+            <li><a href='disposables.php'><span>מוצרים מתכלים</span></a></li>
+            <li><a href='liquid handling.php'><span>מכשור לעבודה עם נוזלים</span></a></li>
+            <li><a href='solutions.php'><span>תמיסות</span></a></li>
+            <li><a href='workshop.php'><span>עבודות בית מלאכה</span></a></li>
+            <li><a href='cleanings.php'><span>ניקיון כלים</span></a></li>
+            <li><a href='calibrations laboratory.php'><span>מעבדת כיולים</span></a></li>
+            <li><a href='glassware.php'><span>כלי זכוכית</span></a></li>
+            <li><a href='filter paper.php'><span>ניירות סינון</span></a></li>
+            <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
+            <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
+            <li><a href='#'><span>טרמומטרים והידרומטרים</span></a></li>
+            <li><a href='#'><span>סטנדרטים</span></a></li>
+            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+        </ul>
+        </div>
+</div>
                 
                 <!--content-->
                 <div class="content">
@@ -134,7 +123,7 @@
                                             <p>עשויות PP ובעלות מעצור לנעילת הגלגלים.</p>
                                             <p>מידות סטנדרטיות: 40x60 ו-50x80 ס"מ.</p>
                                             <p>ניתן לייצר גם במידות אחרות לפי מפרט לקוח.</p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -153,7 +142,7 @@
                                             <p>עגלות מיוחדות מ-PP בשלל צורות וגדלים.</p>
                                             <p>עגלות שונות לשימושים שונים לפי מפרט לקוח.</p>
                                             <p>העגלות בטיחותיות ובעלות מעצור לנעילת הגלגלים.</p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -173,7 +162,7 @@
                                             <h3>מנשאים</h3>
                                             <p>מנשאים מ-PP לנשיאה בטוחה של בקבוקים וכימיקלים.</p>
                                             <p>המנשאים מיוצרים לפי דרישת לקוח ובהתאם לגודל הפריט ולכמות הפריטים שברצונו לנשוא.</p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -193,7 +182,7 @@
                                             <p>המאצרות מיוצרות לפי מפרט לקוח ומותאמות לניצול מקום מקסימלי.</p>
                                             <p>מידות סטנדרטיות: 40x90x5 ו-40x80x5 ס"מ.</p>
                                             <p><a href="images/workshop/holders info.jpg" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
-                                                <a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                                <a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -212,7 +201,7 @@
                                             <p>מעמדים בטיחותיים לבקבוקי מדידה.</p>
                                             <p>המעמדים מונעים הפלת הבקבוקים ושבירתם, ומקלים בנשיאה ובשינוע של הבקבוקים.</p>
                                             <p>המעמדים מיוצרים לפי דרישת לקוח ובהתאם לבקבוקים שברשותו.</p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php"target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -228,7 +217,7 @@
                                             <h3>מעמדים למכשור</h3>
                                             <p>מעמדים מיוחדים למכשור שונה ועמדות עבודה נוחות.</p>
                                             <p>ניתן לתכנן ולייצר מעמד מיוחד עבור כל מכשור ובכל צורה לפי מפרט לקוח.</p>
-                                            <p><a href="#" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
