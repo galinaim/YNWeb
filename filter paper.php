@@ -114,8 +114,8 @@
             <li><a href='glassware.php'><span>כלי זכוכית</span></a></li>
             <li><a href='filter paper.php'><span>ניירות סינון</span></a></li>
             <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
-            <li><a href='#'><span>כרומוטוגרפיה</span></a></li>
-            <li><a href='#'><span>טרמומטרים והידרומטרים</span></a></li>
+            <li><a href='Chromatography.php'><span>כרומוטוגרפיה</span></a></li>
+            <li><a href='thermo&hydrometers.php'><span>טרמומטרים והידרומטרים</span></a></li>
             <li><a href='#'><span>סטנדרטים</span></a></li>
             <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
             <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>

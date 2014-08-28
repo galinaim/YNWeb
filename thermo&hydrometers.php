@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="he" >
    <head>
-     <title>מעבדת כיולים</title>
+     <title>טרמומטרים והידרומטרים</title>
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta charset="UTF-8">
      
@@ -92,17 +92,12 @@
                 <!--jumbotron-->
                 <div class="jumbotron">
                     <div class="container" style="direction: rtl">
-                        <h2 class='products1'>מעבדת כיולים</h2>
-                        <p>לחברת יואל נעים בע"מ מעבדת כיולים מוסמכת המספקת שירות למגוון מעבדות בארץ. המעבדה מוסמכת לפי תקן ISO 9001:2008 מטעם מכון התקנים הישראלי.</p>
-                        <p>המעבדה מציעה שירות תיקונים ובדיקת כיול לכלל המכשור לעבודה עם נוזלים של חברת BRAND הגרמנית, לרבות פיפטורים, דיספנסרים, קוצבי מנות, בירטות דיגיטליות ועוד. כמו כן המעבדה מוסמכת לתיקון ובדיקת כיול של מכשור לבדיקת מים מסוג NANOCOLOR של חברת MACHERY-NAGEL הגרמנית.</p>
-                        <p>במעבדה עובד צוות מנוסה המוסמך לתקן ולבדוק מכשור לעבודה עם נוזלים של כלל החברות לרבות EPPENDORF, GILSON ו-FINNPIPETTE.</p>
-                        <p>ניתן לקבל בסיום הבדיקה תעודת אימות כיול לפי תקן ISO 8655.</p>
-                        <p><a class="btn btn-primary btn-lg" role="button" href="images/calibrations/Calibrations Lab.pdf" target="_blank">לפרטים</a>
-                            <a class="btn btn-primary btn-lg" role="button" href="images/calibrations/ISO 90012008.pdf" target="_blank">תעודת ה-ISO של המעבדה</a>
-                            <a class="btn btn-primary btn-lg" role="button" href="images/calibrations/Brand certificate.pdf" target="_blank">תעודת הסמכה לכיול BRAND</a>
-                            <a class="btn btn-primary btn-lg" role="button" href="images/calibrations/Nanocolor certificate.pdf" target="_blank">תעודת הסמכה לכיול MACHERY-NAGEL</a>
-                            <a class="btn btn-primary btn-lg" role="button" href="images/calibrations/Example.pdf" target="_blank">דוגמה לתעודת כיול</a>
-                        </p>
+                        <h2 class='products1'>טרמומטרים והידרומטרים</h2>
+                        <p>טרמומטרים והידרומטרים תוצרת Ludwig Schneider גרמניה.</p>
+                        <p>קיימים גם טרמומטרים והידרומטרים ASTM</p>
+                        <p>ניתן לרכוש פריטים אלו גם עם תעודת כיול יצרן, תעודת כיול של מכון התקנים הגרמני או תעודת כיול DKD.</p>
+                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a>
+                            <a class="btn btn-primary btn-lg" role="button" target="_blank" href="http://www.ludwig-schneider.com/">לאתר החברה</a></p>
                     </div>            
                 </div>
                 
@@ -134,45 +129,74 @@
                 <div class="content">
                     <table>
                         <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/thermohydro/hydrometer.jpg" alt="הידרומטר" class="prod" style="height:200px; width: 220px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>הידרומטרים</h3>
+                                            <p>מדי צפיפות/משקל סגולי בטווחים שונים</p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>                                
+                            </td>
                             
                             <td>
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
-                                        <img src="images/calibrations/PLT.jpg" alt="PLT" class="prod" style="height:400px; width: 250px;">
-                                        <div class="caption" style="height:auto; width: 370px;">
-                                            <h3>Pipette Leak Test</h3>
-                                            <p>מאבחן הדליפות הדיגיטלי של BRAND מסוגל לזהות את הדליפה הקטנה ביותר בכל פיפטור, חד-ערוצי ורב-ערוצי, בתוך שניות.</p>
-                                            <p>המכשיר יוצר ואקום ובודק את מעבר האוויר בפיפטור, ועל ידי כך יכול לזהות דליפות ולהתריע על תקלות.</p>
-                                            <p>חברת יואל נעים בע"מ מציעה שירות חדש לבדיקת פיפטורים במקום עבודתו של הלקוח.</p>
-                                            <p><a href="images/calibrations/PLT.pdf" target="_blank" class="btn btn-primary" role="button">לפרטים נוספים על השירות</a>
-                                                <a href="http://www.brand.de/en/products/liquid-handling/plt-unit-pipette-leak-test/" target="_blank" class="btn btn-primary" role="button">למידע נוסף על המכשיר</a>
-                                            </p>
+                                        <img src="images/thermohydro/thermometer.jpg" alt="טרמומטרים" class="prod" style="height:200px; width: 220px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>טרמומטרים</h3>
+                                            <p>מדי חום בטווחים שונים</p>
+                                            <p>במילוי כהל או כספית</p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
-                            </div>                              
+                                </div>                                
+                            </td>
+
+                        </tr>
+                        
+                        <tr>
+                            <td>
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
+                                    <div class="thumbnail">
+                                        <img src="images/thermohydro/exact-thermometer.jpg" alt="טרמומטר לתאים" class="prod" style="height:200px; width: 220px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>טרמומטרים לתאים</h3>
+                                            <p>הטרמומטר יושב בתוך בקבוקון הממולא בחומר ומספק קריאת טמפרטורה מדויקת, גם כאשר פותחים את דלת התא.</p>
+                                            <p>קיימים טרמומטרים בטווחים שונים ובקבוקונים במילויים שונים</p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div> 
                             </td>
                             
                             <td>
-                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
+                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
-                                        <img src="images/calibrations/Easycal.jpg" alt="Easycal Software" class="prod" style="height:280px; width: 250px;">
-                                        <div class="caption" style="height:auto; width: 350px;">
-                                            <h3>תוכנת כיולים EASYCAL</h3>
-                                            <p>תוכנת כיול דיגיטלית למחשב מבית היוצר של BRAND גרמניה.</p>
-                                            <p>מזינים לתוכנה את תוצאות הבדיקה והתוכנה מפיקה תעודת אימות כיול בהתאם לתקן ISO 8655.</p>
-                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=168&chapter=168&ID_O_PRODUCT=573&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a>
-                                            </p>
+                                        <img src="images/thermohydro/physics.jpg" alt="טרמומטר מאסטר דיגיטלי" class="prod" style="height:200px; width: 220px;">
+                                        <div class="caption" style="height: auto; width: 260px;">
+                                            <h3>טרמומטר מאסטר דיגיטלי</h3>
+                                            <p>טרמומטר דיגיטלי מדויק מאוד הנותן קריאת טמפרטורה באמצעות טבילת חיישן בתוך נוזל.</p>
+                                            <p>הטרמומטר משמש למדידת טמפרטורות מדויקות במיוחד, ומתאים לתעשיות הכימיה, התרופות, המזון והמטאורולוגיה.</p>
+                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
-                            </div>                         
+                                </div> 
                             </td>
-                           
+                            
                         </tr>
-                        
+
                     </table>
                 </div>
         </div>
