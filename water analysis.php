@@ -50,19 +50,38 @@
            </div>
          
            <!-- Collect the nav links, forms, and other content for toggling -->
-           <div class="collapse navbar-collapse navbar-ex1-collapse ">
+           <div class="collapse navbar-collapse navbar-ex1-collapse " style="height: 100%; width: 100%;">
 		   
-                 <ul class="nav navbar-nav navbar-right  "  id="menu_items">
-               <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
-               <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
-                <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
-				<li class="navbar-right"> <a href="#">נציגויות</a></li>
-				<li class="navbar-right"> <a href="#">מפת הגעה</a></li>
-                                <li class="navbar-right"><a href="contact.php">צור קשר</a></li>
-             
+                 <ul class="nav navbar-nav navbar-right  "  id="menu_items" style="height: 65px; width: 100%;">
+                     <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
+               <li class="active navbar-right"><a href="#">מי אנחנו?</a></li>
+                <li class="active navbar-right"> <a href="#">נעים בל-ארט</a></li>
+				<li class="active navbar-right"> <a href="#">נציגויות</a></li>
+				<li class="active navbar-right"> <a href="#">מפת הגעה</a></li>
+                                <li class="active navbar-right"><a href="contact.php">צור קשר</a></li>
+                 </ul>
 
 
-</ul>			
+    
+<script>
+  (function() {
+    var cx = '016846991131770058105:pwvg9eexh6m';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<div style="width: 500px; height: auto; position: absolute; left: 0px; display: inline; margin: auto; float: left;">
+<div class="gcse-search" style="position: relative; left: 0px; display: inline; margin: auto; float: left;"></div>
+</div>
+
+
+		
            </div><!-- /.navbar-collapse -->
            
         </nav>
@@ -79,7 +98,7 @@
                         <h2 style="size: 50%;">סטיקים</h2>
                         <p>QUANTOFIX: מקלוני בדיקה הנטבלים במים ומשנים את צבעם בהתאם לריכוז החומר הנבדק. כל אריזה מכילה 100 מקלונים וסקלת צבעים.</p>
                         <h2 style="size: 50%;">ערכות שדה</h2>
-                        <p>VISOCOLOR: ערכות שדה פשוטות לתפעול הנותנות למשתמש בהן תשובה מדויקת ומהירה על ריכוז החומר הנבדק במים. הערכות נחלקות לשני סוגים: ערכות כלורומטריות - הנותנות תשובה לפי השוואת צבע לסקלת צבעים, וערכות טיטרציה - הנותנות תשובה לפי נפח האינדיקטור. כחלק מהשירות שנותנת חברת יואל נעים בע"מ, דף ההוראות המצורף לערכה תורגם לעברית לנוחיות המשתמש.</p>
+                        <p>VISOCOLOR: ערכות שדה פשוטות לתפעול הנותנות למשתמש בהן תשובה מדויקת ומהירה על ריכוז החומר הנבדק במים. הערכות מתאימות הן לשימוש בשטח והן לשימוש במעבדה. הערכות נחלקות לשני סוגים: ערכות כולורומטריות - הנותנות תשובה לפי השוואת צבע לסקלת צבעים, וערכות טיטרציה - הנותנות תשובה לפי נפח האינדיקטור. כחלק מהשירות שנותנת חברת יואל נעים בע"מ, דף ההוראות המצורף לערכה תורגם לעברית לנוחיות המשתמש.</p>
                         <h2 style="size: 50%;">מכשירים פוטומטריים</h2>
                         <p>NANOCOLOR: מוצעים מספר מכשירים שונים לבדיקה מעבדתית המתבססים על השיטה הפוטומטרית. המכשירים מצוידים בסוללות הנטענות בחשמל, הם ניידים ומתאימים לבדיקה מידית בשטח ברמה של בדיקה מעבדתית. זוהי בעצם מעבדה ניידת!</p>
                         <p>העבודה בכל אחד מן המוצרים הללו אינה מצריכה ידע מקצועי או התמחות מוקדמת, דבר שאינו מוריד מאיכות המדידה. מוצרים אלו מתאימים הן לבתי ספר והן למעבדות אנליטיות.</p>
@@ -177,7 +196,8 @@
                                         <div class="caption" style="height: auto; width: auto;">
                                             <h3>visocolor</h3>
                                             <p>ערכות שדה פשוטות לתפעול לבדיקה מהירה של ריכוז יונים במים.</p>
-                                            <p>הערכות נחלקות לערכות כלורומטריות וערכות טיטרציה.</p>
+                                            <p>מתאימות לשטח ולמעבדה. מתאימות לבתי ספר.</p>
+                                            <p>הערכות נחלקות לערכות כולורומטריות וערכות טיטרציה.</p>
                                             <p>כל ערכה מתאימה למספר רב מאוד של בדיקות.</p>
                                             <p>כמו כן, חלק מן הערכות אף מתאימות לבדיקה במכשיר פילטרפוטומטר מסוג PF-12.</p>
                                             <p><a href="http://www.mn-net.com/tabid/4648/Default.aspx" target="_blank" class="btn btn-primary" role="button">לקטלוג 1</a>

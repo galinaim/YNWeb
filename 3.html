@@ -46,18 +46,18 @@
            </div>
          
            <!-- Collect the nav links, forms, and other content for toggling -->
-           <div class="collapse navbar-collapse navbar-ex1-collapse ">
+           <div class="collapse navbar-collapse navbar-ex1-collapse " style="height: 100%; width: 100%;">
 		   
-                 <ul class="nav navbar-nav navbar-right  "  id="menu_items">
-               <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
-               <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
-                <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
-				<li class="navbar-right"> <a href="#">נציגויות</a></li>
-				<li class="navbar-right"> <a href="#">מפת הגעה</a></li>
-                                <li class="navbar-right"><a href="contact.php">צור קשר</a></li>
+                 <ul class="nav navbar-nav navbar-right  "  id="menu_items" style="height: 65px; width: 100%;">
+                     <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
+               <li class="active navbar-right"><a href="#">מי אנחנו?</a></li>
+                <li class="active navbar-right"> <a href="#">נעים בל-ארט</a></li>
+				<li class="active navbar-right"> <a href="#">נציגויות</a></li>
+				<li class="active navbar-right"> <a href="#">מפת הגעה</a></li>
+                                <li class="active navbar-right"><a href="contact.php">צור קשר</a></li>
+                 </ul>
 
 
-<li class="navbar-left" style="display: inline; width: auto; height: auto; float: left;">
     
 <script>
   (function() {
@@ -71,12 +71,13 @@
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<div class="gcse-searchbox" style="width: 500px !important; display: inline !important; float: left !important; margin: auto !important; padding-top: 10px !important;"></div>
-<div class="gcse-searchresults"></div>
-    
-</li>
 
-</ul>			
+<div style="width: 500px; height: auto; position: absolute; left: 0px; display: inline; margin: auto; float: left;">
+<div class="gcse-search" style="position: relative; left: 0px; display: inline; margin: auto; float: left;"></div>
+</div>
+
+
+		
            </div><!-- /.navbar-collapse -->
            
         </nav>
@@ -84,54 +85,58 @@
 	
 	<br>
 <!--carousel -->
-<div id="myCarousel" class="carousel slide" data-ride="carousel" align="middle" style="padding-top: 35px;">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1" class=""></li>
-        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
-      </ol>
-	  
-	  
-      <div class="carousel-inner">
-        <div class="item active">
-          <img src="images/YoelNaimsketch.jpg" alt="First slide" width="875" height="375">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>ברוכים הבאים לאתר החדש<br>
-			  של חברת יואל נעים בע"מ</h1><br>
-			  <br><br><br>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img src="images/Liquid_Handling4.jpg" alt="Second slide" width="875" height="375">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>מעבדת כיולים לפי תקן ISO 8655</h1>
-              <p>לקבלת הצעת מחיר ותיאום איסוף ניתן ליצור קשר עם משרדי החברה</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">לפרטים נוספים</a></p>
-			  <br>
-            </div>
-          </div>
-        </div>
-		 <div class="item">
-          <img src="images/solufixss.jpg" alt="Third slide" width="875" height="375">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>תמיסות סטנדרטית מוכנות לשימוש</h1>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">לפרטים נוספים</a></p>
-			  <br>
-            </div>
-          </div>
-        </div>
+<div>
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" align="middle" style="padding-top: 60px;">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+	<li data-target="#carousel-example-generic" data-slide-to="3"></li>
+	<li data-target="#carousel-example-generic" data-slide-to="4"></li>
+  </ol>
 
-		</div>
-		
-      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    
-	</div>
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="images\1.jpg" alt="First" width="875px" height="375px">
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+    <div class="item">
+      <img src="images\3.jpg" alt="Third" width="875px" height="375px">
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+	
+	<div class="item">
+      <img src="images\4.jpg" alt="Forth" width="875px" height="375px">
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+	
+	<div class="item">
+      <img src="images\5.jpg" alt="Fifth" width="875px" height="375px">
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+    ...
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>
+
 	<br>
 
 <div id="main">

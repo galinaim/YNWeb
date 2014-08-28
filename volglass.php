@@ -50,18 +50,38 @@
            </div>
          
            <!-- Collect the nav links, forms, and other content for toggling -->
-           <div class="collapse navbar-collapse navbar-ex1-collapse ">
+           <div class="collapse navbar-collapse navbar-ex1-collapse " style="height: 100%; width: 100%;">
 		   
-                 <ul class="nav navbar-nav navbar-right  "  id="menu_items">
-               <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
-               <li class="navbar-right"><a href="#">מי אנחנו?</a></li>
-                <li class="navbar-right"> <a href="#">נעים בל-ארט</a></li>
-				<li class="navbar-right"> <a href="#">נציגויות</a></li>
-				<li class="navbar-right"> <a href="#">מפת הגעה</a></li>
-                                <li class="navbar-right"><a href="contact.php">צור קשר</a></li>
+                 <ul class="nav navbar-nav navbar-right  "  id="menu_items" style="height: 65px; width: 100%;">
+                     <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
+               <li class="active navbar-right"><a href="#">מי אנחנו?</a></li>
+                <li class="active navbar-right"> <a href="#">נעים בל-ארט</a></li>
+				<li class="active navbar-right"> <a href="#">נציגויות</a></li>
+				<li class="active navbar-right"> <a href="#">מפת הגעה</a></li>
+                                <li class="active navbar-right"><a href="contact.php">צור קשר</a></li>
+                 </ul>
 
 
-</ul>			
+    
+<script>
+  (function() {
+    var cx = '016846991131770058105:pwvg9eexh6m';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<div style="width: 500px; height: auto; position: absolute; left: 0px; display: inline; margin: auto; float: left;">
+<div class="gcse-search" style="position: relative; left: 0px; display: inline; margin: auto; float: left;"></div>
+</div>
+
+
+		
            </div><!-- /.navbar-collapse -->
            
         </nav>

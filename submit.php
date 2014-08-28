@@ -4,7 +4,7 @@
 require_once "Mail.php";
 
 $from = '<from.gmail.com>';
-$to = '<idoshabi@gmail.com>';
+$to = '<galinaim@walla.com>';
 $subject = "You got request from".$_POST['FullName'];
 $body = "Hi,\n You received request from: " .$_POST['FullName'] 
         ."\n Email: ".$_POST['Email']."\n Phone".$_POST['PhoneNunber'].

@@ -38,39 +38,123 @@
      <script src="js/bootstrap.min.js">
 	 </script>
          
+         	<div class="mycontainer">
+      <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
+           <!-- Brand and toggle get grouped for better mobile display -->
+           <div class="navbar-header">
+             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+             </button>
+           </div>
+         
+           <!-- Collect the nav links, forms, and other content for toggling -->
+           <div class="collapse navbar-collapse navbar-ex1-collapse " style="height: 100%; width: 100%;">
+		   
+                 <ul class="nav navbar-nav navbar-right  "  id="menu_items" style="height: 65px; width: 100%;">
+                     <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
+               <li class="active navbar-right"><a href="#">מי אנחנו?</a></li>
+                <li class="active navbar-right"> <a href="#">נעים בל-ארט</a></li>
+				<li class="active navbar-right"> <a href="#">נציגויות</a></li>
+				<li class="active navbar-right"> <a href="#">מפת הגעה</a></li>
+                                <li class="active navbar-right"><a href="contact.php">צור קשר</a></li>
+                 </ul>
+
+
+    
+<script>
+  (function() {
+    var cx = '016846991131770058105:pwvg9eexh6m';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<div style="width: 500px; height: auto; position: absolute; left: 0px; display: inline; margin: auto; float: left;">
+<div class="gcse-search" style="position: relative; left: 0px; display: inline; margin: auto; float: left;"></div>
+</div>
+
+
+		
+           </div><!-- /.navbar-collapse -->
+           
+        </nav>
+	</div>
+         
+         <div class="wrap">
+                         <div class="jumbotron">
+                    <div class="container" style="direction: rtl">
+                        <h2 class='products1'>דרכי יצירת קשר</h2>
+                        
+                        <div style="float: right; display: inline;">
+                            <h2>יואל נעים בע"מ</h2>
+                            <p>טלפון 08-9464462</p>
+                            <p>פקס 08-9454846</p>
+                            <p>כתובת דוא"ל yoel@yoelnaim.com</p>
+                            <p style="font-weight: bold;">כתובת למשלוח דואר</p>
+                            <p>ת.ד. 261 נס-ציונה מיקוד 7410102</p>
+                            <p style="font-weight: bold;">כתובת להגעה</p>
+                            <p>רח' משה יותם 3 רחובות</p>
+                        </div>
+                        
+                        <div style="float: right; display: inline; margin-right: 100px;;">
+                            <h2>נעים בל-ארט בע"מ</h2>
+                            <p>טלפון 08-6276065</p>
+                            <p>פקס 08-6280187</p>
+                            <p>כתובת דוא"ל naimba@bezeqint.net </p>
+                            <p style="font-weight: bold;">כתובת למשלוח דואר</p>
+                            <p>ת.ד. 17316 באר שבע מיקוד 8488702</p>
+                            <p style="font-weight: bold;">כתובת להגעה</p>
+                            <p>רח' תוצרת הארץ 3 פארק אופיר באר שבע</p>
+                        </div>
+                        
+                    </div>            
+                </div>
+         
          <form class="form-horizontal" role="form" action="submit.php" method="post">
-  <div class="form-group">
-    <label for="inputEmail3" class="col-sm-2 control-label">שם הפונה</label>
+             <div class="form-group">
+                 <label for="inputEmail3" class="col-sm-2 control-label" style="direction: rtl; float: right; padding-right: 100px;">שם הפונה</label>
     <div class="col-sm-10">
-      <input type="name" class="form-control" id="inputEmail2" name='FullName' placeholder="שם הפונה">
+        <input type="name" class="form-control" id="inputEmail2" name='FullName' placeholder="שם הפונה" style="width:700px;">
     </div>
   </div>
   <div class="form-group">
-    <label for="inputEmail3" class="col-sm-2 control-label">כתובת דוא''ל</label>
+    <label for="inputEmail3" class="col-sm-2 control-label" style="direction: rtl; float: right; padding-right: 100px;">כתובת דוא''ל</label>
     <div class="col-sm-10">
-      <input type="email" class="form-control" id="inputPassword3" name='Email' placeholder="כתובת דוא''ל">
+      <input type="email" class="form-control" id="inputPassword3" name='Email' placeholder="כתובת דוא''ל" style="width:700px;">
     </div>
   </div>
     <div class="form-group">
-    <label for="inputEmail3" class="col-sm-2 control-label">טלפון</label>
+    <label for="inputEmail3" class="col-sm-2 control-label" style="direction: rtl; float: right; padding-right: 100px;">טלפון</label>
     
     <div class="col-sm-10" >
-      <input type="phone" class="form-control" id="inputPassword4" name='PhoneNunber' placeholder="טלפון">
+      <input type="phone" class="form-control" id="inputPassword4" name='PhoneNunber' placeholder="טלפון" style="width:700px;">
     </div>
   </div>
     <div class="form-group">
-    <label for="inputEmail3" class="col-sm-2 control-label">תיאור הפנייה</label>
+    <label for="inputEmail3" class="col-sm-2 control-label" style="direction: rtl; float: right; padding-right: 100px;">תיאור הפנייה</label>
     <div class="col-sm-10">
-        <input type="textarea" class="form-control" id="inputPassword5" name='RequestInfo' placeholder="תיאור הפנייה">
+        <textarea rows="4" cols="50" class="form-control" id="inputPassword5" name='RequestInfo' placeholder="תיאור הפנייה" style="width:700px; height: auto;"></textarea>
     </div>
   </div>
 
   <div class="form-group">
     <div class="col-sm-offset-2 col-sm-10">
-      <button type="submit" class="btn btn-default">Sign in</button>
+      <button type="submit" class="btn btn-primary btn-lg" style="direction: rtl; margin-right: 100px;">שלח</button>
     </div>
   </div>
 </form>
+             
+         </div>
+         
+        
    </body>
 </html>
 
