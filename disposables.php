@@ -97,7 +97,7 @@
                         <p>המוצרים המתכלים המשווקים ע"י יואל נעים בע"מ או נעים בל-ארט הם ברמה הגבוהה ביותר והינם תוצרת גרמניה, ארה"ב או איטליה. המוצרים המתכלים מלווים בכלל התעודות הנדרשות.</p>
                         <p>קטגורית המוצרים המתכלים הינה קטגוריה רחבה ביותר, ולהלן יובאו רק חלק מן הפריטים המקוטלגים תחתה.</p>
                         <p>לכל שאלה בנוגע למוצרים מתכלים, בין אם הם מופיעים בדף זה ובין אם לא, ניתן ליצור עימנו קשר.</p>
-                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a></p>
+                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
@@ -118,9 +118,9 @@
             <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
             <li><a href='Chromatography.php'><span>כרומוטוגרפיה</span></a></li>
             <li><a href='thermo&hydrometers.php'><span>טרמומטרים והידרומטרים</span></a></li>
-            <li><a href='#'><span>סטנדרטים</span></a></li>
-            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+            <li><a href='standarts.php'><span>סטנדרטים</span></a></li>
+            <li><a href='foodstuff.php'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='counseling.php'><span>הדרכות ויעוץ</span></a></li>
         </ul>
         </div>
 </div>

@@ -94,7 +94,7 @@
                     <div class="container" style="direction: rtl">
                         <h2 class='products1'>ניירות סינון</h2>
                         <p>מגוון ניירות סינון ופילטרים תוצרת MACHERY-NAGEL גרמניה.</p>
-                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a>
+                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a>
                             <a class="btn btn-primary btn-lg" role="button" target="_blank" href="http://www.mn-net.com/">לאתר החברה</a></p>
                     </div>            
                 </div>
@@ -116,9 +116,9 @@
             <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
             <li><a href='Chromatography.php'><span>כרומוטוגרפיה</span></a></li>
             <li><a href='thermo&hydrometers.php'><span>טרמומטרים והידרומטרים</span></a></li>
-            <li><a href='#'><span>סטנדרטים</span></a></li>
-            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+            <li><a href='standarts.php'><span>סטנדרטים</span></a></li>
+            <li><a href='foodstuff.php'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='counseling.php'><span>הדרכות ויעוץ</span></a></li>
         </ul>
         </div>
 </div>

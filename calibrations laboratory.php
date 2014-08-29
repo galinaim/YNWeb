@@ -123,9 +123,9 @@
             <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
             <li><a href='Chromatography.php'><span>כרומוטוגרפיה</span></a></li>
             <li><a href='thermo&hydrometers.php'><span>טרמומטרים והידרומטרים</span></a></li>
-            <li><a href='#'><span>סטנדרטים</span></a></li>
-            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+            <li><a href='standarts.php'><span>סטנדרטים</span></a></li>
+            <li><a href='foodstuff.php'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='counseling.php'><span>הדרכות ויעוץ</span></a></li>
         </ul>
         </div>
 </div>
@@ -164,7 +164,7 @@
                                             <p>תוכנת כיול דיגיטלית למחשב מבית היוצר של BRAND גרמניה.</p>
                                             <p>מזינים לתוכנה את תוצאות הבדיקה והתוכנה מפיקה תעודת אימות כיול בהתאם לתקן ISO 8655.</p>
                                             <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=168&chapter=168&ID_O_PRODUCT=573&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a>
-                                            </p>
+                                                <a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>

@@ -102,7 +102,7 @@
                         <p>כל כלי המדידה מכוילים לפי תקני ה-ISO, אך ניתן להזמין גם כלי מדידה המכוילים לפי תקני ה-USP או ה-DKD, ואליהם מצורפות תעודות הכיול המתאימות.</p>
                         <p><a class="btn btn-primary btn-lg" role="button" href="http://www.brand.de/en/products/volumetric-instruments/blaubrandr-quality/" target="_blank">לפרטים נוספים</a>
                             <a class="btn btn-primary btn-lg" role="button" href="http://catalog.brand.de/index.php?chapter=2&xtree=1&begin=0&ID_O_TREE_GROUP=2&sLanguage=English&start_infoblock=1" target="_blank">לקטלוג האינטרנטי</a>
-                            <a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a></p>
+                            <a class="btn btn-primary btn-lg" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
@@ -123,9 +123,9 @@
             <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
             <li><a href='Chromatography.php'><span>כרומוטוגרפיה</span></a></li>
             <li><a href='thermo&hydrometers.php'><span>טרמומטרים והידרומטרים</span></a></li>
-            <li><a href='#'><span>סטנדרטים</span></a></li>
-            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+            <li><a href='standarts.php'><span>סטנדרטים</span></a></li>
+            <li><a href='foodstuff.php'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='counseling.php'><span>הדרכות ויעוץ</span></a></li>
         </ul>
         </div>
 </div>
@@ -148,6 +148,7 @@
                                             <p><a href="http://www.brand.de/en/products/volumetric-instruments/volumetric-flasks/volumetric-flasks-glass/" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
                                             <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=249&chapter=249&ID_O_PRODUCT=128&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג: נפחים 1-2 מ"ל</a></p>
                                             <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=249&chapter=249&ID_O_PRODUCT=134&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג: נפחים 5 מ"ל-10 ליטר</a></p>
+                                            <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -167,6 +168,7 @@
                                             <p>1 ליטר: ארוז בודד</p>
                                             <p><a href="http://www.brand.de/en/products/volumetric-instruments/volumetric-flasks/volumetric-flasks-glass/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                             <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=249&chapter=249&ID_O_PRODUCT=136&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                            <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -186,6 +188,7 @@
                                                 <p>נפחים 2.5-100 מ"ל: אריזות של 6 יח'</p>
                                                 <p><a href="http://www.brand.de/en/products/volumetric-instruments/bulb-pipettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=228&chapter=228&ID_O_PRODUCT=106&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                     </div>
                                 </div>
@@ -206,6 +209,7 @@
                                             <p>נפחים 20-50 מ"ל: אריזות של 6 יח'</p>
                                             <p><a href="http://www.brand.de/en/products/volumetric-instruments/graduated-pipettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                 <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=222&chapter=222&ID_O_PRODUCT=91&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                            <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -225,6 +229,7 @@
                                             <p>נפחים 1-2 ליטר: ארוז בודד</p>
                                             <p><a href="http://www.brand.de/en/products/volumetric-instruments/graduatedmixing-cylinders/graduated-cylinders-mixing-cylinders-glass/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                             <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=243&chapter=243&ID_O_PRODUCT=116&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                            <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -244,6 +249,7 @@
                                             <p>ארוזות בזוגות</p>
                                             <p><a href="http://www.brand.de/en/products/volumetric-instruments/burettes-automatic-burettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                             <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=207&chapter=207&ID_O_PRODUCT=13&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                            <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -261,8 +267,9 @@
                                             <p>מיקרו-פיפטות זכוכית תוצרת BRAND גרמניה.</p>
                                             <p>מכוילות בהתאם לתקן ISO 7550 ומסומנות בצבע לפי תקן ה-ISO.</p>
                                             <p>נפחים של עד 200 מיקרו-ליטר.</p>
-                                            <p><a href="http://www.brand.de/en/products/clinical-laboratory/disposable-micropipettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
-                                            <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=283&chapter=283&ID_O_PRODUCT=578&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                            <p><a href="http://www.brand.de/en/products/clinical-laboratory/disposable-micropipettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
+                                            <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=283&chapter=283&ID_O_PRODUCT=578&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                            <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
                                 </div>

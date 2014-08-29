@@ -100,7 +100,7 @@
                         <p>המכשור הנפחי (דוגמת קוצבי מנות ופיפטורים) מלווה בתעודות כיול בהתאם לתקן ISO 8655.</p>
                         <p><a class="btn btn-primary btn-lg" role="button" href="http://www.brand.de/en/products/liquid-handling/" target="_blank">לפרטים נוספים</a>
                             <a class="btn btn-primary btn-lg" role="button" href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=13&chapter=13&xtree=1&begin=0&sLanguage=English&start_infoblock=1" target="_blank">לקטלוג האינטרנטי</a>
-                            <a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a></p>
+                            <a class="btn btn-primary btn-lg" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
@@ -121,9 +121,9 @@
             <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
             <li><a href='Chromatography.php'><span>כרומוטוגרפיה</span></a></li>
             <li><a href='thermo&hydrometers.php'><span>טרמומטרים והידרומטרים</span></a></li>
-            <li><a href='#'><span>סטנדרטים</span></a></li>
-            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+            <li><a href='standarts.php'><span>סטנדרטים</span></a></li>
+            <li><a href='foodstuff.php'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='counseling.php'><span>הדרכות ויעוץ</span></a></li>
         </ul>
         </div>
 </div>
@@ -149,6 +149,7 @@
                                                 <p>ישנם שלושה סוגים של דיספנסטים: רגיל, אורגני ו-TA (דיספנסט המתאים ל-HF ולחומצות עבור ICP).</p>
                                                 <p><a href="http://www.brand.de/en/products/liquid-handling/bottle-top-dispensers/bottle-top-dispenser-dispensetter/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=97&chapter=97&xtree=1&begin=0&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -167,6 +168,7 @@
                                                 <p>ניתן לחבר את הבירטה הדיגיטלית למחשב.</p>
                                                 <p><a href="http://www.brand.de/en/products/liquid-handling/bottle-top-burette/bottle-top-burette-titretter/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=1839&chapter=1839&ID_O_PRODUCT=35841&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -188,6 +190,7 @@
                                                 <p>הפיפטורים הרב-ערוציים הינם 8 ו-12 ערוצים ומתאימים לנפחים בין 0.5 ל-300 מיקרו-ליטר.</p>
                                                 <p><a href="http://www.brand.de/en/products/liquid-handling/microliter-pipettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=1902&chapter=1902&xtree=1&begin=0&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -214,6 +217,7 @@
                                                 <p>הפיפטורים האלקטרוניים הרב-ערוציים הינם 8 ו-12 ערוצים ומתאימים לנפחים בין 0.5 ל-300 מיקרו-ליטר.</p>
                                                 <p><a href="http://www.brand.de/en/products/liquid-handling/microliter-pipettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=1904&chapter=1904&xtree=1&begin=0&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -234,6 +238,7 @@
                                                 <p>הפיפטורים הרב-ערוציים הינם 8 ו-12 ערוצים ומתאימים לנפחים בין 0.5 ל-300 מיקרו-ליטר.</p>
                                                 <p><a href="http://www.brand.de/en/products/liquid-handling/microliter-pipettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=1903&chapter=1903&xtree=1&begin=0&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -255,6 +260,7 @@
                                                 <p>חברת יואל נעים בע"מ מציעה שירות כיול לקוצב מנות במעבדת הכיולים שלה.</p>
                                                 <p><a href="http://www.brand.de/en/products/liquid-handling/stepperrepetitive-pipette/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?chapter=35&xtree=1&begin=0&ID_O_TREE_GROUP=35&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -278,6 +284,7 @@
                                                 <p>לטרנספרפטור טיפים רב-פעמיים ייחודיים.</p>
                                                 <p><a href="http://www.brand.de/en/products/liquid-handling/positive-displacement-pipettes/transferpettor/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?chapter=32&xtree=1&begin=0&ID_O_TREE_GROUP=32&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -296,7 +303,8 @@
                                                 <p>המכשיר בעל נורית התרעה אשר תשתנה מירוק לאדום כשעתיים לפני ריקון הסוללה.</p>
                                                 <p>המכשיר בעל מתאם סיליקון המאפשר עבודה עם כלל נפחי וסוגי הפיפטות, ללא צורך בהחזקה של מספר מכשירים שונים עבור כל פיפטה.</p>
                                                 <p>המכשיר בעל פילטר פנימי המספק הגנה על המכשיר בעת שאיבת יתר.</p>
-                                                <p><a href="http://www.vitlab.com/en/product/vitlab-pipeo/" target="_blank" class="btn btn-primary" role="button">לפרטים</a></p>
+                                                <p><a href="http://www.vitlab.com/en/product/vitlab-pipeo/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
+                                                <a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -316,6 +324,7 @@
                                                 <p>המכשיר מגיע בארבעה צבעים שונים: ירוק, כחול, ורוד ואפור. לבחירת הלקוח.</p>
                                                 <p><a href="http://www.brand.de/en/products/liquid-handling/pipette-controllers/macro-pipette-controller/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=360&chapter=360&ID_O_PRODUCT=84775&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -339,6 +348,7 @@
                                                 <p>עם שאיבת הנוזל מהבקבוק מתאפסת הבירטה אוטומטית ומוכנה לטיטרציה.</p>
                                                 <p><a href="http://www.brand.de/en/products/volumetric-instruments/burettes-automatic-burettes/" target="_blank" class="btn btn-primary" role="button">לפרטים</a>
                                                     <a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=216&chapter=216&ID_O_PRODUCT=35&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -355,7 +365,8 @@
                                                 <p>בירטה שילינג תוצרת BRAND גרמניה.</p>
                                                 <p>הבירטה מלווה בבקבוק PE לחיץ לאיפוס אוטומטי של הבירטה.</p>
                                                 <p>סטיית התקן של הבירטה הינה לפי CLASS B של תקן DIN EN ISO 385.</p>
-                                                <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=219&chapter=219&ID_O_PRODUCT=46&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a></p>
+                                                <p><a href="http://catalog.brand.de/index.php?encrypt=0&ID_O_TREE_GROUP=219&chapter=219&ID_O_PRODUCT=46&begin=1&sLanguage=English&start_infoblock=1" target="_blank" class="btn btn-primary" role="button">לקטלוג</a>
+                                                    <a class="btn btn-primary" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                                             </div>
                                         </div>
                                     </div>

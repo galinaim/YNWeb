@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="he" >
    <head>
-     <title>טרמומטרים והידרומטרים</title>
+     <title>סטנדרטים</title>
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta charset="UTF-8">
      
@@ -92,12 +92,13 @@
                 <!--jumbotron-->
                 <div class="jumbotron">
                     <div class="container" style="direction: rtl">
-                        <h2 class='products1'>טרמומטרים והידרומטרים</h2>
-                        <p>טרמומטרים והידרומטרים תוצרת Ludwig Schneider גרמניה.</p>
-                        <p>קיימים גם טרמומטרים והידרומטרים ASTM</p>
-                        <p>ניתן לרכוש פריטים אלו גם עם תעודת כיול יצרן, תעודת כיול של מכון התקנים הגרמני או תעודת כיול DKD.</p>
-                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a>
-                            <a class="btn btn-primary btn-lg" role="button" target="_blank" href="http://www.ludwig-schneider.com/">לאתר החברה</a></p>
+                        <h2 class='products1'>סטנדרטים לחומרי הדברה</h2>
+                        <p>סטנדרטים אנליטיים לחומרי הדברה תוצרת חברת Dr Ehrenstorfer הגרמנית.</p>
+                        <p>סטנדרטים אלו נמצאים בשימוש משרד החקלאות והאגף להגנת הצומח.</p>
+                        <p>לחברת Dr Ehrenstorfer תקני ISO 9001 ו-ISO 17025, והסטנדרטים שהיא מייצרת מגיעים עם תעודות אנליזה.</p>
+                        <p><a class="btn btn-primary btn-lg" role="button" href="images/standarts/standarts.pdf" target="_blank">לפרטים נוספים</a>
+                           <a class="btn btn-primary btn-lg" role="button" target="_blank" href="http://www.ehrenstorfer.com/redirect_0.html">לאתר החברה</a>
+                        <a class="btn btn-primary btn-lg" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
@@ -133,10 +134,12 @@
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
-                                        <img src="images/thermohydro/hydrometer.jpg" alt="הידרומטר" class="prod" style="height:200px; width: 220px;">
+                                        <img src="images/standarts/standarts.jpg" alt="סטנדרטים" class="prod" style="height:200px; width: 220px;">
                                         <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>הידרומטרים</h3>
-                                            <p>מדי צפיפות/משקל סגולי בטווחים שונים</p>
+                                            <h3>סטנדרטים</h3>
+                                            <p>סטנדרטים אנליטיים לחומרי הדברה תוצרת חברת Dr Ehrenstorfer הגרמנית.</p>
+                                            <p>כולל תעודות אנליזה</p>
+                                            <p>הסטנדרטים מיובאים ע"פ דרישת לקוח, ואינם מוחזקים במלאי כבדרך קבע</p>
                                             <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
@@ -148,11 +151,11 @@
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
-                                        <img src="images/thermohydro/thermometer.jpg" alt="טרמומטרים" class="prod" style="height:200px; width: 220px;">
+                                        <img src="images/standarts/standarts cabinet.jpg" alt="ארון לסטנדרטים" class="prod" style="height:200px; width: 220px;">
                                         <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>טרמומטרים</h3>
-                                            <p>מדי חום בטווחים שונים</p>
-                                            <p>במילוי כהל או כספית</p>
+                                            <h3>ארון לסטנדרטים</h3>
+                                            <p>ארון פרספקס לאחסון סטנדרטים</p>
+                                            <p>מיוצר לפי דרישת לקוח ולפי מידות לבקשתו</p>
                                             <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
                                         </div>
                                     </div>
@@ -160,41 +163,6 @@
                                 </div>                                
                             </td>
 
-                        </tr>
-                        
-                        <tr>
-                            <td>
-                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
-                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <div class="thumbnail">
-                                        <img src="images/thermohydro/exact-thermometer.jpg" alt="טרמומטר לתאים" class="prod" style="height:200px; width: 220px;">
-                                        <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>טרמומטרים לתאים</h3>
-                                            <p>הטרמומטר יושב בתוך בקבוקון הממולא בחומר ומספק קריאת טמפרטורה מדויקת, גם כאשר פותחים את דלת התא.</p>
-                                            <p>קיימים טרמומטרים בטווחים שונים ובקבוקונים במילויים שונים</p>
-                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
-                                        </div>
-                                    </div>
-                                </div>
-                                </div> 
-                            </td>
-                            
-                            <td>
-                                <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
-                                <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
-                                    <div class="thumbnail">
-                                        <img src="images/thermohydro/physics.jpg" alt="טרמומטר מאסטר דיגיטלי" class="prod" style="height:200px; width: 220px;">
-                                        <div class="caption" style="height: auto; width: 260px;">
-                                            <h3>טרמומטר מאסטר דיגיטלי</h3>
-                                            <p>טרמומטר דיגיטלי מדויק מאוד הנותן קריאת טמפרטורה באמצעות טבילת חיישן בתוך נוזל.</p>
-                                            <p>הטרמומטר משמש למדידת טמפרטורות מדויקות במיוחד, ומתאים לתעשיות הכימיה, התרופות, המזון והמטאורולוגיה.</p>
-                                            <p><a href="contact.php" target="_blank" class="btn btn-primary" role="button">לקבלת הצעת מחיר</a></p>
-                                        </div>
-                                    </div>
-                                </div>
-                                </div> 
-                            </td>
-                            
                         </tr>
 
                     </table>

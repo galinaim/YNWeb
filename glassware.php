@@ -98,7 +98,7 @@
                         <p>מסיבה זו אין להתפשר על איכות כלי הזכוכית במעבדה! לא חסרים סיפורים על עובדי מעבדה שכוס כימית או בקבוק יניקה נסדקו להם במהלך העבודה.</p>
                         <p>מסיבה זו אנו בחברות יואל נעים בע"מ ונעים בל-ארט מקפידים להחזיק רק בכלי זכוכית באיכות הגבוהה ביותר.</p>
                         <p>* הערה: למרות השנתות המופיעות על חלק מכלי הזכוכית (לדוגמה: ארלנמאייר, כוס כימית, מזרק ובקבוק מעבדה) אין להתבלבל ולחשוב אותם לכלי מדידה! השנתות המופיעות על כלים אלו מעידות על נפח משוער בלבד.</p>
-                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a></p>
+                        <p><a class="btn btn-primary btn-lg" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
@@ -119,9 +119,9 @@
             <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
             <li><a href='Chromatography.php'><span>כרומוטוגרפיה</span></a></li>
             <li><a href='thermo&hydrometers.php'><span>טרמומטרים והידרומטרים</span></a></li>
-            <li><a href='#'><span>סטנדרטים</span></a></li>
-            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+            <li><a href='standarts.php'><span>סטנדרטים</span></a></li>
+            <li><a href='foodstuff.php'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='counseling.php'><span>הדרכות ויעוץ</span></a></li>
         </ul>
         </div>
 </div>

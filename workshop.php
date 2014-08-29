@@ -99,7 +99,7 @@
                         <p>בית המלאכה שלנו, היושב בבאר שבע, מסוגל לייצר כמעט את כל סוגי הציוד לפי מידה וגודל לנוחיות הלקוח הן מ-PP והן מפרספקס.</p>
                         <p>להלן מובאים מספר מהפריטים הסטנדרטים שמייצר בית המלאכה באופן קבוע. לפריטים שונים ניתן ליצור עימנו קשר.</p>
                         <a class="btn btn-primary btn-lg" role="button" href="images/workshop/workshop.jpg" target="_blank">לפרטים נוספים</a>
-                        <a class="btn btn-primary btn-lg" role="button" href="contact.php">לקבלת הצעת מחיר</a></p>
+                        <a class="btn btn-primary btn-lg" role="button" href="contact.php" target="_blank">לקבלת הצעת מחיר</a></p>
                     </div>            
                 </div>
                 
@@ -120,9 +120,9 @@
             <li><a href='water analysis.php'><span>ערכות לבדיקת מים</span></a></li>
             <li><a href='Chromatography.php'><span>כרומוטוגרפיה</span></a></li>
             <li><a href='thermo&hydrometers.php'><span>טרמומטרים והידרומטרים</span></a></li>
-            <li><a href='#'><span>סטנדרטים</span></a></li>
-            <li><a href='#'><span>ציוד מאושר למזון</span></a></li>
-            <li class='last'><a href='#'><span>הדרכות ויעוץ</span></a></li>
+            <li><a href='standarts.php'><span>סטנדרטים</span></a></li>
+            <li><a href='foodstuff.php'><span>ציוד מאושר למזון</span></a></li>
+            <li class='last'><a href='counseling.php'><span>הדרכות ויעוץ</span></a></li>
         </ul>
         </div>
 </div>
