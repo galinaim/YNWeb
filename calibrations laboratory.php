@@ -53,12 +53,11 @@
            <div class="collapse navbar-collapse navbar-ex1-collapse " style="height: 100%; width: 100%;">
 		   
                  <ul class="nav navbar-nav navbar-right  "  id="menu_items" style="height: 65px; width: 100%;">
-                     <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
-               <li class="active navbar-right"><a href="#">מי אנחנו?</a></li>
-                <li class="active navbar-right"> <a href="#">נעים בל-ארט</a></li>
-				<li class="active navbar-right"> <a href="#">נציגויות</a></li>
-				<li class="active navbar-right"> <a href="#">מפת הגעה</a></li>
-                                <li class="active navbar-right"><a href="contact.php">צור קשר</a></li>
+                     <li class="active navbar-right"><a href="home page.html">דף הבית</a></li>
+                     <li class="active navbar-right"><a href="company profile.php">מי אנחנו?</a></li>
+                     <li class="active navbar-right"> <a href="images/company profile/naim bel-art.pdf">נעים בל-ארט</a></li>
+                     <li class="active navbar-right"> <a href="directions.php">מפת הגעה</a></li>
+                     <li class="active navbar-right"><a href="contact.php">צור קשר</a></li>
                  </ul>
 
 

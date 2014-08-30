@@ -9,7 +9,7 @@
         <meta name="author" content="">
         <link rel="icon" href="../../favicon.ico">
 
-        <title>כניסת מנהלים</title>
+        <title>בדיקה</title>
 
          <!-- Bootstrap -->
          <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">

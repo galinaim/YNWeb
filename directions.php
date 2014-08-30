@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="icon" href="../../favicon.ico">
 
-        <title>צור קשר</title>
+        <title>מפת הגעה</title>
 
          <!-- Bootstrap -->
          <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -90,70 +90,30 @@
          <div class="wrap">
                          <div class="jumbotron">
                     <div class="container" style="direction: rtl">
-                        <h2 class='products1'>דרכי יצירת קשר</h2>
+                        <h2 class='products1'>איך מגיעים?</h2>
                         
                         <div style="float: right; display: inline;">
                             <h2>יואל נעים בע"מ</h2>
                             <p>טלפון 08-9464462</p>
-                            <p>פקס 08-9454846</p>
-                            <p>כתובת דוא"ל yoel@yoelnaim.com</p>
-                            <p style="font-weight: bold;">כתובת למשלוח דואר</p>
-                            <p>ת.ד. 261 נס-ציונה מיקוד 7410102</p>
                             <p style="font-weight: bold;">כתובת להגעה</p>
                             <p>רח' משה יתום 3 רחובות</p>
+                            <p><a class="btn btn-primary btn-lg" role="button" href="https://www.google.co.il/maps/place/%D7%99%D7%95%D7%90%D7%9C+%D7%A0%D7%A2%D7%99%D7%9D+%D7%91%D7%A2%22%D7%9E%E2%80%AD/@31.889529,34.784426,17z/data=!3m1!4b1!4m2!3m1!1s0x1502b7480dff40ad:0x715870a8086e4c91"
+                                  target="_blank">מפת הגעה google</a></p>
+                            <p><a class="btn btn-primary btn-lg" role="button" href="images/company profile/street view.jpg" target="_blank">תמונת הרחוב</a></p>
                         </div>
                         
                         <div style="float: right; display: inline; margin-right: 100px;;">
                             <h2>נעים בל-ארט בע"מ</h2>
                             <p>טלפון 08-6276065</p>
-                            <p>פקס 08-6280187</p>
-                            <p>כתובת דוא"ל naimba@bezeqint.net </p>
-                            <p style="font-weight: bold;">כתובת למשלוח דואר</p>
-                            <p>ת.ד. 17316 באר שבע מיקוד 8488702</p>
                             <p style="font-weight: bold;">כתובת להגעה</p>
                             <p>רח' תוצרת הארץ 3 פארק אופיר ביתן 10 באר שבע</p>
+                            <p><a class="btn btn-primary btn-lg" role="button" href="https://www.google.co.il/maps/place/%D7%90%D7%96%D7%95%D7%A8+%D7%AA%D7%A2%D7%A9%D7%99%D7%99%D7%94+%D7%A4%D7%90%D7%A8%D7%A7+%D7%90%D7%95%D7%A4%D7%99%D7%A8%E2%80%AD/@31.2194712,34.8034981,17z/data=!4m2!3m1!1s0x1502689c3fb58883:0x87a2fbfae0cab2a3"
+                                  target="_blank">מפת הגעה google</a></p>
                         </div>
                         
                     </div>            
                 </div>
-         
-         <form class="form-horizontal" role="form" action="submit.php" method="post">
-             <div class="form-group">
-                 <label for="inputEmail3" class="col-sm-2 control-label" style="direction: rtl; float: right; padding-right: 100px;">שם הפונה</label>
-    <div class="col-sm-10">
-        <input type="name" class="form-control" id="inputEmail2" name='FullName' placeholder="שם הפונה" style="width:700px;">
-    </div>
-  </div>
-  <div class="form-group">
-    <label for="inputEmail3" class="col-sm-2 control-label" style="direction: rtl; float: right; padding-right: 100px;">כתובת דוא"ל הפונה</label>
-    <div class="col-sm-10">
-      <input type="email" class="form-control" id="inputPassword3" name='Email' placeholder="כתובת דוא''ל" style="width:700px;">
-    </div>
-  </div>
-    <div class="form-group">
-    <label for="inputEmail3" class="col-sm-2 control-label" style="direction: rtl; float: right; padding-right: 100px;">טלפון</label>
-    
-    <div class="col-sm-10" >
-      <input type="phone" class="form-control" id="inputPassword4" name='PhoneNunber' placeholder="טלפון" style="width:700px;">
-    </div>
-  </div>
-    <div class="form-group">
-    <label for="inputEmail3" class="col-sm-2 control-label" style="direction: rtl; float: right; padding-right: 100px;">תיאור הפנייה</label>
-    <div class="col-sm-10">
-        <textarea rows="4" cols="50" class="form-control" id="inputPassword5" name='RequestInfo' placeholder="תיאור הפנייה" style="width:700px; height: auto;"></textarea>
-    </div>
-  </div>
 
-  <div class="form-group">
-    <div class="col-sm-offset-2 col-sm-10">
-      <button type="submit" class="btn btn-primary btn-lg" style="direction: rtl; margin-right: 100px;">שלח</button>
-    </div>
-  </div>
-</form>
-             
          </div>
-         
-        
    </body>
 </html>
-

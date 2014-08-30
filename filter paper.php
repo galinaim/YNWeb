@@ -53,12 +53,11 @@
            <div class="collapse navbar-collapse navbar-ex1-collapse " style="height: 100%; width: 100%;">
 		   
                  <ul class="nav navbar-nav navbar-right  "  id="menu_items" style="height: 65px; width: 100%;">
-                     <li class="active navbar-right"><a href="3.html">דף הבית</a></li>
-               <li class="active navbar-right"><a href="#">מי אנחנו?</a></li>
-                <li class="active navbar-right"> <a href="#">נעים בל-ארט</a></li>
-				<li class="active navbar-right"> <a href="#">נציגויות</a></li>
-				<li class="active navbar-right"> <a href="#">מפת הגעה</a></li>
-                                <li class="active navbar-right"><a href="contact.php">צור קשר</a></li>
+                     <li class="active navbar-right"><a href="home page.html">דף הבית</a></li>
+                     <li class="active navbar-right"><a href="company profile.php">מי אנחנו?</a></li>
+                     <li class="active navbar-right"> <a href="images/company profile/naim bel-art.pdf">נעים בל-ארט</a></li>
+                     <li class="active navbar-right"> <a href="directions.php">מפת הגעה</a></li>
+                     <li class="active navbar-right"><a href="contact.php">צור קשר</a></li>
                  </ul>
 
 
@@ -166,7 +165,7 @@
                                 <div class="col-sm-6 col-md-4" style="height: auto; width: auto; float: right;">
                                 <div class="col-xs-6 col-md-3" style="height: auto; width: auto;">
                                     <div class="thumbnail">
-                                        <img src="images/Filteration/syringe filters.jpg" alt="פילטר סביבון" class="prod" style="height:150px; width: 220px;">
+                                        <img src="images/Filteration/syringe filters.jpg" alt="פילטר סביבון" class="prod" style="height:120px; width: 220px;">
                                         <div class="caption" style="height: auto; width: 260px;">
                                             <h3>פילטר סביבון</h3>
                                             <p>פילטר מזרק עם ממברנות שונות לסינון דוגמאות קטנות</p>
