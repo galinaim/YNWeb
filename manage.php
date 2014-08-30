@@ -44,11 +44,7 @@
     </div> <!-- /container -->
 
     <script>
-        
-        function validate1() {
-            alert ("Hello!");
-        }
-    
+
     </script>
     <!-- Bootstrap core JavaScript
     ================================================== -->
