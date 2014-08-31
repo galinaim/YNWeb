@@ -140,7 +140,7 @@
                                         <div class="caption" style="height:auto; width: 330px;">
                                             <h3>יואל נעים</h3>
                                             <p>האיש שהקים את החברה ושעל שמו היא נקראה</p>
-                                            <p><a href="images/company profile/yoel naim.pdf" target="_blank" class="btn btn-primary" role="button">האיש והאגדה</a></p>
+                                            <p><a href="images/company profile/yoel naim.pdf" target="_blank" class="btn btn-primary" role="button">יואל נעים האיש</a></p>
                                         </div>
                                     </div>
                                 </div>
