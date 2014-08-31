@@ -42,12 +42,12 @@ a:focus {
      <!-- Include all compiled plugins (below), or include individual files as needed -->
      <script src="js/bootstrap.min.js">
 	 </script>
-        <?php
+<?php
         
 $salt = '4ElBv9_ xduzWMF^ebaX+ZY Epk0ChtVyszLNTh2iIHovCJk-c4wuyIb95Nh'; // Random hard to guess string
 
-$user = 'gali';   // stored user name
-$hash = '4176428148bf5358975c0b8df8cc9dbb9645ace3';  // stored password galinaim
+$user = 'Rita';   // stored user name
+$hash = 'aedd87178d14ea9887957363a2162b6e8364b79f';  // stored password galinaim
 
 // http://online-code-generator.com/sha1-hash-with-optional-salt.php for changing password with salt
 $input_user = $_POST['UN'];   // in this example, should be "user"
