@@ -6,7 +6,7 @@
         <meta name="author" content="">
         <link rel="icon" href="../../favicon.ico">
 
-        <title>כניסת מנהלים</title>
+        <title>תודה על פנייתך</title>
 
          <!-- Bootstrap -->
          <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -61,7 +61,7 @@ $from = '<from.gmail.com>';
 $to = '<yoel@yoelnaim.com>';
 $subject = "You got request from".$_POST['FullName'];
 $body = "Hi,\n You received request from: " .$_POST['FullName'] 
-        ."\n Email: ".$_POST['Email']."\n Phone".$_POST['PhoneNunber'].
+        ."\n Email: ".$_POST['Email']."\n Phone: ".$_POST['PhoneNunber'].
         "\n Message: \n".$_POST['RequestInfo'] ;
 
 $headers = array(
